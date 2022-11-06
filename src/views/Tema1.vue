@@ -49,8 +49,8 @@
               //figcaption Leyenda de la imagen
           .col-md-6.mb-4.mb-md-0
             p Traslado de plantas del semillero al terreno definitivo donde van a llevar a cabo su ciclo de vida. 
-            p Beneficios: planificación de siembra, crecimiento uniforme, eficiencia en las semillas y floración temprana para agilizar la producción.
-            p Perjuicios: El trasplante genera estrés en las plantas, ocasiona marchitez y, en ocasiones, las mata. Además, se afectan los órganos de las plantas, especialmente la raíz. 
+            p <em>Beneficios</em>: planificación de siembra, crecimiento uniforme, eficiencia en las semillas y floración temprana para agilizar la producción.
+            p <em>Perjuicios</em>: El trasplante genera estrés en las plantas, ocasiona marchitez y, en ocasiones, las mata. Además, se afectan los órganos de las plantas, especialmente la raíz. 
             p Es así como el proceso de trasplante debe hacerse durante el día, sin altas temperaturas, para permitir que la planta tenga una mejor adaptación y que su estrés sea temporal.  A la hora de trasplantar, se debe evitar el estrés, asegurándose que el sistema radicular esté bien desarrollado, adecuando el terreno al cual se van a trasladar las plantas, verificando las condiciones ambientales (iluminación, humedad, temperatura, ventilación) a las que se van a exponer las plantas trasplantadas, y resembrando a una profundidad adecuada.
         
 
@@ -119,7 +119,7 @@
           .col-md-6.mb-4.mb-md-0
             p Previene, reduce y erradica plantas no deseadas, evitando interferencias de crecimiento entre las plantas, o consecuencias negativas al competir por la luz solar y los nutrientes. 
             p El mantenimiento de cultivos previene generadores de enfermedades y plagas, como también de plantas ‘hospederas’, sin desproteger el suelo. Seleccionar el método apropiado de control depende de la biología, morfología, modo de desarrollo, forma de reproducción, comportamiento, medios de difusión, etc., del arvense, e, igualmente, de la cantidad, las especies en cultivo, el estado de cosecha y la capacidad económica del agricultor. 
-            p Otra ventaja del control de arvenses es la conservación de humedad en la planta, el equilibrio, el agroecosistema, además de la regulación de presencia de insectos, pues algunos se alimentan de este. Igualmente, al implementar una variedad de control de arvenses, se actúa como repelente y controlador de insectos perjudiciales para los cultivos, controlando o evitando que se desarrollen en esa área, evitando, por ejemplo, la ‘Ranunculus acris’ o botón de oro, o la formación de nidos de hormigas arrieras, ‘Atta cephalotes’.
+            p Otra ventaja del control de arvenses es la conservación de humedad en la planta, el equilibrio, el agroecosistema, además de la regulación de presencia de insectos, pues algunos se alimentan de este. Igualmente, al implementar una variedad de control de arvenses, se actúa como repelente y controlador de insectos perjudiciales para los cultivos, controlando o evitando que se desarrollen en esa área, evitando, por ejemplo, la <em>‘Ranunculus acris’</em> o botón de oro, o la formación de nidos de hormigas arrieras, <em>‘Atta cephalotes’</em>.
         
 
         .row(titulo="Poda")
@@ -267,7 +267,7 @@
         p Las arvenses tienen un rol ecológico en la interacción con el cultivo y, a su vez, son muy útiles para controlar plagas y enfermedades. A continuación, se describe la utilidad de las arvenses.
 
           
-        .row.color-columna-izquierda-tarjeta-utilidad
+        .row(data-aos="fade-right").color-columna-izquierda-tarjeta-utilidad
           .col-lg-7
             .bloque-letras-color-tema1.bloque-texto-tarjeta-utilidad-tema1.p-2
               .texto-sup-tarjeta-utilidad-tema1
@@ -280,7 +280,7 @@
           .col-lg-5
               figure
                 img(src='@/assets/curso/temas/imagen-derecha-tarjeta-utilidad.png', alt='Texto que describa la imagen').imagen-tarjeta-utilidad-tema1
-              br
+              
     br
     br
     br

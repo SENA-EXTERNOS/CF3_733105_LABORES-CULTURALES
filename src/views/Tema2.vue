@@ -161,7 +161,7 @@
 
             p(numero="3" titulo="Abonos orgánicos") Existen diversos tipos de abonos orgánicos, uno de los más comunes y usados es el compost, elaborado por medio de un proceso biológico que permite la higienización, descomposición y fermentación de residuos orgánicos como los restos de alimentos de origen doméstico o industrial, es decir, cáscaras de frutas, de vegetales, de huevos, etc.
 
-            p(numero="4" titulo="Otros Abonos") Existen otros abonos orgánicos como el bocashi, la lombricultura, también conocida como vermicompost, los abonos verdes, la turba, u otros abonos elaborados a partir de residuos alimenticios, agrícolas o forestales, de humus de lombriz, o del estiércol animal de gallinas, conejos, caballos, vacas y cabras.
+            p(numero="4" titulo="Otros Abonos") Existen otros abonos orgánicos como el <em>bocashi</em>, la lombricultura, también conocida como vermicompost, los abonos verdes, la turba, u otros abonos elaborados a partir de residuos alimenticios, agrícolas o forestales, de humus de lombriz, o del estiércol animal de gallinas, conejos, caballos, vacas y cabras.
     
     br
     br
@@ -454,36 +454,36 @@
             .row.align-items-center
               .col-auto
                 figure
-                  img(src="@/assets/curso/temas/imagen-microorganismos-eficientes.png", alt="alt").img100
+                  img(src="@/assets/curso/temas/imagen-microorganismos-eficientes.png", alt="alt").img100.imagenes-tarjetas-conectadas
               .col
-                h5 Microorganismos eficientes
-                p Se conoce como fertilizantes, o inoculantes biológicos, a los productos que se elaboran con microorganismos eficientes, que son benéficos para los suelos, las plantas y la agricultura en general, al aumentar la interacción de bacterias y hongos descomponedores de los nutrientes que se brindan al suelo para que la planta los aproveche de mejor manera. Además, se elimina o minimiza el uso de insecticidas, pesticidas, herbicidas y demás agroquímicos (biorremediadores).
+                h5.texto-tarjetas-conectadas Microorganismos eficientes
+                p.texto-tarjetas-conectadas Se conoce como fertilizantes, o inoculantes biológicos, a los productos que se elaboran con microorganismos eficientes, que son benéficos para los suelos, las plantas y la agricultura en general, al aumentar la interacción de bacterias y hongos descomponedores de los nutrientes que se brindan al suelo para que la planta los aproveche de mejor manera. Además, se elimina o minimiza el uso de insecticidas, pesticidas, herbicidas y demás agroquímicos (biorremediadores).
           .crd.crd--avatarHorizontal.fondo-color-tarjetas-conectadas.tarjeta.espacios-color-tarjeta2-tema2.py-4
             .row.align-items-center
               .col-auto
                 figure
-                  img(src="@/assets/curso/temas/imagen-mejorar-formacion.png", alt="alt").img100
+                  img(src="@/assets/curso/temas/imagen-mejorar-formacion.png", alt="alt").img100.imagenes-tarjetas-conectadas
               .col
-                h5 Mejorar la formación y estructura
-                p Contribuyen a mejorar la formación y estructura del suelo, al descomponer la materia orgánica, mejorar el suministro y la absorción de nutrientes, aumentar la resistencia a factores de estrés de origen biótico y abiótico (mejoradores ecofisiológicos), brindar protección contra agentes patógenos (control biológico), estimular la germinación y enraizamiento  (fitoestimulantes), acondicionar el pH del suelo, realizar procesos de fijación de nitrógeno y aportar a la solubilización de minerales (biofertilizantes).
+                h5.texto-tarjetas-conectadas Mejorar la formación y estructura
+                p.texto-tarjetas-conectadas Contribuyen a mejorar la formación y estructura del suelo, al descomponer la materia orgánica, mejorar el suministro y la absorción de nutrientes, aumentar la resistencia a factores de estrés de origen biótico y abiótico (mejoradores ecofisiológicos), brindar protección contra agentes patógenos (control biológico), estimular la germinación y enraizamiento  (fitoestimulantes), acondicionar el pH del suelo, realizar procesos de fijación de nitrógeno y aportar a la solubilización de minerales (biofertilizantes).
           .crd.crd--avatarHorizontal.crd--last.fondo-color-tarjetas-conectadas.tarjeta.espacios-color-tarjeta3-tema2.py-4
             .row.align-items-center
               .col-auto
                 figure
-                  img(src="@/assets/curso/temas/imagen-disminuir-riesgo-contam.png", alt="alt").img100
+                  img(src="@/assets/curso/temas/imagen-disminuir-riesgo-contam.png", alt="alt").img100.imagenes-tarjetas-conectadas
               .col
-                h5 Disminuyen riesgos de contaminación
-                p Adicionalmente, se disminuyen los riesgos de contaminación de fuentes hídricas, además de riesgos en la salud de los agricultores, al no contar con efectos tóxicos. Así mismo, se reducen los costos de producción, son más económicos y, aunque tienen menor número de aplicaciones con el paso del tiempo, su absorción y asimilación es mayor. Adicionalmente, sus beneficios duran más y son compatibles con fertilizantes químicos, es decir, los inoculantes biológicos generan impactos positivos de tipo económico, social y ambiental.
+                h5.texto-tarjetas-conectadas Disminuyen riesgos de contaminación
+                p.texto-tarjetas-conectadas Adicionalmente, se disminuyen los riesgos de contaminación de fuentes hídricas, además de riesgos en la salud de los agricultores, al no contar con efectos tóxicos. Así mismo, se reducen los costos de producción, son más económicos y, aunque tienen menor número de aplicaciones con el paso del tiempo, su absorción y asimilación es mayor. Adicionalmente, sus beneficios duran más y son compatibles con fertilizantes químicos, es decir, los inoculantes biológicos generan impactos positivos de tipo económico, social y ambiental.
 
 
           .crd.crd--avatarHorizontal.crd--last.fondo-color-tarjetas-conectadas.tarjeta.espacios-color-tarjeta4-tema2.py-4
             .row.align-items-center
               .col-auto
                 figure
-                  img(src="@/assets/curso/temas/imagen-caracteristicas-fundamentales.png", alt="alt").img100
+                  img(src="@/assets/curso/temas/imagen-caracteristicas-fundamentales.png", alt="alt").img100.imagenes-tarjetas-conectadas
               .col
-                h5 Características fundamentales
-                p Para que los fertilizantes sean de adecuada calidad, se debe tener una serie de características fundamentales como la estabilidad, la factibilidad biológica y económica, o que sean libres de contaminantes. Su proceso de elaboración es duplicable y cuenta con organismos vivos, o activos, como bacterias simbióticas y asimbióticas fijadoras de nitrógeno, hongos formadores de micorrizas, microorganismos solubilizadores de fosfato y transformantes de materia orgánica.
+                h5.texto-tarjetas-conectadas Características fundamentales
+                p.texto-tarjetas-conectadas Para que los fertilizantes sean de adecuada calidad, se debe tener una serie de características fundamentales como la estabilidad, la factibilidad biológica y económica, o que sean libres de contaminantes. Su proceso de elaboración es duplicable y cuenta con organismos vivos, o activos, como bacterias simbióticas y asimbióticas fijadoras de nitrógeno, hongos formadores de micorrizas, microorganismos solubilizadores de fosfato y transformantes de materia orgánica.
       br
       br
       p.texto-final-tarjetas-conectadas Los microorganismos son benéficos en los cultivos y reducen los costos de producción al ser más económicos.
@@ -504,7 +504,7 @@
 
       .titulo-sexto.color-acento-contenido.mb-3
         h5 Figura 5.
-        span Microorganismos empleados en los inoculantes biológicos
+        span <em>Microorganismos empleados en los inoculantes biológicos</em>
         
         
 
