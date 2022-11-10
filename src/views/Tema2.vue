@@ -8,12 +8,16 @@
       h1 Fertilización
 
     .row.container.justify-content-around.align-items-center
-    
-          .col-8
+          
+          figure
+              img(src="@/assets/curso/temas/fondo-tar1-tema1.png").fondo-tar1-tema1
+          
+          
+          .col-lg-8
             .bloque-color-superior-tema2
             p.texto-color-superior.p-3 Es importante buscar un equilibrio en la realización de las labores culturales que permita la obtención de una alta productividad en los cultivos sin generar afectaciones graves o impactos negativos a los recursos naturales, es decir, evitando, o minimizando, cualquier efecto negativo que se pueda originar.
           
-          .col-4
+          .col-lg-4
             figure
               img(data-aos="fade-left")(src="@/assets/curso/temas/imagen1-fertilizacion-tema2.png").imagen1-tema2
       
@@ -128,11 +132,11 @@
         h2 2.1 Fertilizantes orgánicos o bioabonos
 
     
-      .col-8
+      .col-lg-8
         .bloque-color-superior-fert-org
         p.texto-color-superior.p-3 Los fertilizantes orgánicos, o bioabonos, se componen de mezclas de materiales originados por la degradación de diversos desperdicios de origen vegetal, animal y mixtos, o de residuos industriales, optimizando, así, las propiedades y características de los terrenos, aportándoles los nutrientes y requerimientos necesarios para las plantas. Es importante resaltar que los fertilizantes generan beneficios a las plantas, mientras que los abonos enriquecen el suelo.
       
-      .col-4
+      .col-lg-4
         figure
           img(data-aos="fade-left")(src="@/assets/curso/temas/imagen1-fertilizantes-organicos.png").imagen1-tema2
       
@@ -149,11 +153,11 @@
     
       
       .row.justify-content-center.mb-5
-        .col-8.col-lg-4
+        .col-lg-6.p-2
           figure
-            img(src="@/assets/curso/temas/imagen-derecha-figura3-tema2.png", alt="alt").tarjeta.imagen-der-pasos-verticales
+            img(src="@/assets/curso/temas/imagen-derecha-figura3-tema2c.png", alt="alt").tarjeta.imagen-der-pasos-verticales
 
-        .col-lg-8
+        .col-lg-6
           LineaTiempoD.color-secundario
             p(numero="1" titulo="Aprovechar los desechos") Surge como una alternativa para aprovechar los desechos originados día a día en el hogar o en el desarrollo de actividades agropecuarias, agrícolas o forestales. Son necesarios para desarrollar una agricultura sostenida en el largo plazo, en razón al acelerado deterioro de los suelos y a su alta y prolongada fertilización con productos químicos que afectan los rendimientos y la productividad del cultivo.
 
@@ -192,19 +196,23 @@
     .row.container.justify-content-around.align-items-center
 
       
-      .bloque-letras-color-tema1
-        .letras-color-tema1 
-          span a  
-        h4.subtitulo-letras-color-tema1  Abonos orgánicos
+      
+      .col-sm.mb-5.mb-sm-0
+              
+          ol.lista-ol--cuadro
+              li 
+                .lista-ol--cuadro__vineta.color-acento-contenido
+                  span a
+                |  Abonos orgánicos
 
 
       .bg--img_03.bloque-acordeon-tema2
         .row.justify-content-center.mb-4
-          .col-lg-4
+          .col-lg-5
             figure(data-aos="zoom-in")
-              img(src="@/assets/curso/temas/imagen-izq-acordeon-tema2.png", alt="alt").img400.m-auto
-          .col-lg-8
-            AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta acordeonA").tarjeta.tarjetas-acordeon-tema2
+              img(src="@/assets/curso/temas/imagen-izq-acordeon-tema2.png", alt="alt").img-der-acordeon-tema2
+          .col-lg-7
+            AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjetas-acordeon-tema2")
               .row(titulo="BOCASHI:")
                 .col-12
                   p.textos-acordeon-tema2.mb-0 materia orgánica fermentada obtenida en menor tiempo que el compost, esto se logra mediante la aceleración de la degradación y el aumento de la temperatura que elimina patógenos. No genera olores desagradables, ni atracción de insectos. A su vez, brinda al suelo nutrientes obtenidos de la fermentación de materiales que contienen elementos mayores y menores, con los cuales se logra un abono superior a los fertilizantes químicos, además, engorda el suelo y provee microorganismos, ofreciendo a las plantas una gran disposición de minerales necesarios para el crecimiento de sus raíces y follaje.
@@ -258,7 +266,20 @@
 
     .row.container.justify-content-around.align-items-center
 
+                 
+      p Según lo visto anteriormente, existen varios tipos de abonos, los abonos fermentados, en especial, generan ventajas sobre los cultivos agroecológicos.
+
+
+
+   
       .tarjeta.fondo-caract-abonos-tema2.p-4
+        .col-sm.mb-5.mb-sm-0
+                
+              ol.lista-ol--cuadro
+                  li 
+                    .lista-ol--cuadro__vineta.color-acento-contenido
+                      span b
+                    | Características de los abonos orgánicos
         .row
           .col-lg-5
             figure
@@ -305,7 +326,7 @@
           .col-lg-5
               figure
                 img(src="@/assets/curso/temas/imagen2-caract-abonos-orga.png", alt="alt").imagen2-caract-abonos-tema2
-
+              p.texto-invisible Lorem ipsum dolor sit amet consectetur adipisicing elit. Et laborum nostrum omnis dolore necessitatibus recusandae temporibus. Similique, dolor nobis repudiandae molestias distinctio sed modi dolorum ipsa voluptas nesciunt qui laboriosam.
 
       p.texto-final-caract-abonos-tema2 A continuación, se describen los fertilizantes e inoculantes biológicos como aportantes de microorganismos benéficos.
             
@@ -341,14 +362,14 @@
                   
                   br
                   br
+                  br
+                  
                   
                 
                 .tarjeta-slide__img.p-xl-5
-                  
-                  p.color-texto-tarjetas-animadas-tema3.p-2 
-                  //h4.titulo-tarjetas-tema2 Listado no ordenado color
-                  
+                
                   ul.lista-ul--color
+                      br
                       li 
                         i.fas.fa-atom
                         | Produce sustancias antibióticas, antifúngicas que atacan a los patógenos.
@@ -377,11 +398,13 @@
                     img(data-aos="fade-down")(src="@/assets/curso/temas/imagen-hono-microrizado-tar-animada.png", alt="alt").imagenes-tarjetas-animadas-tema3
                   br
                   br
+                  br
 
                 .tarjeta-slide__img.p-xl-5
                   //h3.color-texto-tarjetas-animadas-tema3.p-2 Dominio
                   
                   ul.lista-ul--color
+                      br
                       li 
                         i.fas.fa-atom
                         | Se asocian con la raíz de las plantas
@@ -417,11 +440,13 @@
                     img(data-aos="fade-down")(src="@/assets/curso/temas/imagen-bacterias-tar-animada.png", alt="alt").imagenes-tarjetas-animadas-tema3
                   br
                   br
+                  br
 
                 .tarjeta-slide__img.p-xl-5
                   //h3.color-texto-tarjetas-animadas-tema3.p-2 Dominio
 
                   ul.lista-ul--color
+                      br
                       li 
                         i.fas.fa-atom
                         | Promueven el desarrollo radicular
@@ -434,6 +459,8 @@
                       li 
                         i.fas.fa-atom
                         | Estimulas el crecimiento de tallos, hojas, flores y frutos
+                      br
+                      br
                       br
                       br
                       br
@@ -454,7 +481,7 @@
             .row.align-items-center
               .col-auto
                 figure
-                  img(src="@/assets/curso/temas/imagen-microorganismos-eficientes.png", alt="alt").img100.imagenes-tarjetas-conectadas
+                  img(src="@/assets/curso/temas/imagen-microorganismos-eficientes.png", alt="alt").imagenes-tarjetas-conectadas
               .col
                 h5.texto-tarjetas-conectadas Microorganismos eficientes
                 p.texto-tarjetas-conectadas Se conoce como fertilizantes, o inoculantes biológicos, a los productos que se elaboran con microorganismos eficientes, que son benéficos para los suelos, las plantas y la agricultura en general, al aumentar la interacción de bacterias y hongos descomponedores de los nutrientes que se brindan al suelo para que la planta los aproveche de mejor manera. Además, se elimina o minimiza el uso de insecticidas, pesticidas, herbicidas y demás agroquímicos (biorremediadores).
@@ -462,7 +489,7 @@
             .row.align-items-center
               .col-auto
                 figure
-                  img(src="@/assets/curso/temas/imagen-mejorar-formacion.png", alt="alt").img100.imagenes-tarjetas-conectadas
+                  img(src="@/assets/curso/temas/imagen-mejorar-formacion.png", alt="alt").imagenes-tarjetas-conectadas
               .col
                 h5.texto-tarjetas-conectadas Mejorar la formación y estructura
                 p.texto-tarjetas-conectadas Contribuyen a mejorar la formación y estructura del suelo, al descomponer la materia orgánica, mejorar el suministro y la absorción de nutrientes, aumentar la resistencia a factores de estrés de origen biótico y abiótico (mejoradores ecofisiológicos), brindar protección contra agentes patógenos (control biológico), estimular la germinación y enraizamiento  (fitoestimulantes), acondicionar el pH del suelo, realizar procesos de fijación de nitrógeno y aportar a la solubilización de minerales (biofertilizantes).
@@ -470,7 +497,7 @@
             .row.align-items-center
               .col-auto
                 figure
-                  img(src="@/assets/curso/temas/imagen-disminuir-riesgo-contam.png", alt="alt").img100.imagenes-tarjetas-conectadas
+                  img(src="@/assets/curso/temas/imagen-disminuir-riesgo-contam.png", alt="alt").imagenes-tarjetas-conectadas
               .col
                 h5.texto-tarjetas-conectadas Disminuyen riesgos de contaminación
                 p.texto-tarjetas-conectadas Adicionalmente, se disminuyen los riesgos de contaminación de fuentes hídricas, además de riesgos en la salud de los agricultores, al no contar con efectos tóxicos. Así mismo, se reducen los costos de producción, son más económicos y, aunque tienen menor número de aplicaciones con el paso del tiempo, su absorción y asimilación es mayor. Adicionalmente, sus beneficios duran más y son compatibles con fertilizantes químicos, es decir, los inoculantes biológicos generan impactos positivos de tipo económico, social y ambiental.
@@ -480,7 +507,7 @@
             .row.align-items-center
               .col-auto
                 figure
-                  img(src="@/assets/curso/temas/imagen-caracteristicas-fundamentales.png", alt="alt").img100.imagenes-tarjetas-conectadas
+                  img(src="@/assets/curso/temas/imagen-caracteristicas-fundamentales.png", alt="alt").imagenes-tarjetas-conectadas
               .col
                 h5.texto-tarjetas-conectadas Características fundamentales
                 p.texto-tarjetas-conectadas Para que los fertilizantes sean de adecuada calidad, se debe tener una serie de características fundamentales como la estabilidad, la factibilidad biológica y económica, o que sean libres de contaminantes. Su proceso de elaboración es duplicable y cuenta con organismos vivos, o activos, como bacterias simbióticas y asimbióticas fijadoras de nitrógeno, hongos formadores de micorrizas, microorganismos solubilizadores de fosfato y transformantes de materia orgánica.
@@ -494,10 +521,12 @@
 
     .row.container.justify-content-around.align-items-center
 
-      .bloque-letras-color-tema1
-          .letras-color-tema1 
-            span a  
-          h4.subtitulo-letras-color-tema1  Microorganismos empleados en los inoculantes biológicos
+      .col-sm.mb-5.mb-sm-0      
+          ol.lista-ol--cuadro
+              li 
+                .lista-ol--cuadro__vineta.color-acento-contenido
+                  span a 
+                | Microorganismos empleados en los inoculantes biológicos
 
       p Los microorganismos empleados como inoculantes biológicos son fuente de nutrientes mayores y menores, además de acondicionadores de suelo que mejoran la estructura y la absorción de minerales en los cultivos.
 
@@ -519,10 +548,12 @@
 
     .row.container.justify-content-around.align-items-center
 
-        .bloque-letras-color-tema1
-          .letras-color-tema1 
-            span a  
-          h4.subtitulo-letras-color-tema1 Inoculantes biológicos
+        .col-sm.mb-5.mb-sm-0
+            ol.lista-ol--cuadro
+              li 
+                .lista-ol--cuadro__vineta.color-acento-contenido
+                  span a
+                | Inoculantes biológicos
 
         .row.bloque-inoculantes-biologicos(data-aos="fade-left")       
           .col-lg-8
@@ -537,7 +568,7 @@
               figure
                 img(src="@/assets/curso/temas/imagen-inoculantes-biologicos.png", alt="alt").imagen-inoculantes-biologicos
         
-        p Como se ha visto, los fertilizantes orgánicos y los microorganismos son insumos claves en la fabricación de fertilizantes. Los lugares acondicionados para su fabricación son conocidos como biofábricas.
+        p.texto-final-inoculantes-biologicos Como se ha visto, los fertilizantes orgánicos y los microorganismos son insumos claves en la fabricación de fertilizantes. Los lugares acondicionados para su fabricación son conocidos como biofábricas.
 
     br
 
@@ -570,14 +601,14 @@
           .titulo-segundo.color-acento-contenido
             h2 2.4 Normatividad
 
-          .col-7.p-3
+          .col-lg-7.p-3
             .bloque-color-superior-bloque-ica
             p.texto-color-superior En Colombia se han desarrollado mecanismos de protección de los ecosistemas, propendiendo el desarrollo industrial con minimización de los impactos generados por actividades antrópicas, a través de una normatividad sanitaria y ambiental que busca proteger a las actividades agropecuarias y agrícolas de posibles enfermedades, o de la expansión de contagios que afecten gravemente las actividades en el campo.
             p.texto-color-superior De forma específica, para los fertilizantes, acondicionadores del suelo y bioinsumos agrícolas como inoculantes biológicos, agentes microbiales y extractos vegetales, el Instituto Colombiano Agropecuario (ICA) es el encargado de realizar seguimiento y control técnico y científico a los procesos de producción, registro, comercialización y uso. 
             p.texto-color-superior El ICA cuenta con las siguientes guías y normas.
 
           
-          .col-5
+          .col-lg-5
             figure
               img(data-aos="fade-left")(src="@/assets/curso/temas/imagen-ica-tema2.png").imagen-ica-tema1
       
@@ -586,7 +617,7 @@
       
         p #[strong Normatividad expedida por Instituto Colombiano Agropecuario (ICA)]
 
-        AcordionA(tipo="b" clase-tarjeta="tarjeta").tarjeta.fondo-acordeon-normas-ica
+        AcordionA(tipo="b" clase-tarjeta="tarjeta fondo-acordeon-normas-ica")
           .row(titulo="Resolución 76510 del 25 de septiembre de 2020.")
             .col-md-10.mb-6.mb-md-0
               p Establece los requisitos para el registro del productor, productor por contrato, envasador, importador y departamentos técnicos de ensayos de eficacia agronómica de bioinsumos para uso agrícola, como también, los requisitos para el registro de bioinsumos para uso agrícola.

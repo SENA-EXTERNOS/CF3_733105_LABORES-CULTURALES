@@ -9,11 +9,11 @@
 
     .row.justify-content-around.align-items-center
           
-          .col-8
+          .col-lg-8
             .bloque-color-superior
             p.texto-color-superior.p-3 Al hablar de manejo de cultivos, se hace referencia a la serie de actividades llevadas a cabo durante la producción (desde la siembra hasta la cosecha) de los cultivos, estas labores influyen en los rendimientos y la calidad de los cultivos, porque, con su adecuada y oportuna realización, es decir, en el momento y la fecha adecuada, se aumenta y mejora la producción agrícola.
           
-          .col-4
+          .col-lg-4
             figure
               img(data-aos="fade-left")(src="@/assets/curso/temas/imagen1-tema1.png").imagen1-tema1
       
@@ -40,7 +40,7 @@
 
       p Existen diversos tipos de labores culturales, las cuales pueden ser de carácter preventivo, de manejo y de control, o enfocadas al desarrollo fisiológico o al manejo de poblaciones asociadas, e influyen en el adecuado desarrollo de las plantas durante su crecimiento o producción.
 
-      AcordionA(tipo="a" clase-tarjeta="tarjeta").color-exterior-slider-tema1.tarjeta
+      AcordionA(tipo="a" clase-tarjeta="tarjeta color-exterior-slider-tema1")
         .row(titulo="Trasplante")
           
           .col-md-6
@@ -48,13 +48,13 @@
               img(src='@/assets/curso/temas/imagen-transplante-slider1.png', alt='Texto que describa la imagen').imagenes-acordeon-tema1
               //figcaption Leyenda de la imagen
           .col-md-6.mb-4.mb-md-0
-            p Traslado de plantas del semillero al terreno definitivo donde van a llevar a cabo su ciclo de vida. 
-            p <em>Beneficios</em>: planificación de siembra, crecimiento uniforme, eficiencia en las semillas y floración temprana para agilizar la producción.
-            p <em>Perjuicios</em>: El trasplante genera estrés en las plantas, ocasiona marchitez y, en ocasiones, las mata. Además, se afectan los órganos de las plantas, especialmente la raíz. 
-            p Es así como el proceso de trasplante debe hacerse durante el día, sin altas temperaturas, para permitir que la planta tenga una mejor adaptación y que su estrés sea temporal.  A la hora de trasplantar, se debe evitar el estrés, asegurándose que el sistema radicular esté bien desarrollado, adecuando el terreno al cual se van a trasladar las plantas, verificando las condiciones ambientales (iluminación, humedad, temperatura, ventilación) a las que se van a exponer las plantas trasplantadas, y resembrando a una profundidad adecuada.
+            p.texto-acordeon-tema1 Traslado de plantas del semillero al terreno definitivo donde van a llevar a cabo su ciclo de vida. 
+            p.texto-acordeon-tema1 <em>Beneficios</em>: planificación de siembra, crecimiento uniforme, eficiencia en las semillas y floración temprana para agilizar la producción.
+            p.texto-acordeon-tema1 <em>Perjuicios</em>: El trasplante genera estrés en las plantas, ocasiona marchitez y, en ocasiones, las mata. Además, se afectan los órganos de las plantas, especialmente la raíz. 
+            p.texto-acordeon-tema1 Es así como el proceso de trasplante debe hacerse durante el día, sin altas temperaturas, para permitir que la planta tenga una mejor adaptación y que su estrés sea temporal.  A la hora de trasplantar, se debe evitar el estrés, asegurándose que el sistema radicular esté bien desarrollado, adecuando el terreno al cual se van a trasladar las plantas, verificando las condiciones ambientales (iluminación, humedad, temperatura, ventilación) a las que se van a exponer las plantas trasplantadas, y resembrando a una profundidad adecuada.
         
-
-        .row(titulo="Raleo")
+          br
+        .row(titulo="Raleo").fila2-acord-lab-culturales-tema1
 
           .col-md-6
             figure
@@ -62,11 +62,11 @@
               //figcaption Leyenda de la imagen
 
           .col-md-6.mb-4.mb-md-0
-            p Eliminación total o parcial de las plantas más débiles, enfermas, torcidas o de baja calidad. El raleo tiene el objetivo de beneficiar y asegurar el adecuado desarrollo y crecimiento de las plantas más sanas, brindándole mayor espacio y menos competencia para, así, estimular su crecimiento e incrementar su vigor y resistencia. A medida que los árboles crecen, aumenta la competencia por espacio, por nutrientes, por agua y por luz, por esto, el raleo es un proceso selectivo y la cantidad y frecuencia para realizarlo dependerá del crecimiento que tenga la plantación. 
+            p.texto-acordeon-tema1 Eliminación total o parcial de las plantas más débiles, enfermas, torcidas o de baja calidad. El raleo tiene el objetivo de beneficiar y asegurar el adecuado desarrollo y crecimiento de las plantas más sanas, brindándole mayor espacio y menos competencia para, así, estimular su crecimiento e incrementar su vigor y resistencia. A medida que los árboles crecen, aumenta la competencia por espacio, por nutrientes, por agua y por luz, por esto, el raleo es un proceso selectivo y la cantidad y frecuencia para realizarlo dependerá del crecimiento que tenga la plantación. 
 
         
         
-        .row(titulo="Aporque")
+        .row(titulo="Aporque").fila3-acord-lab-culturales-tema1
 
           .col-md-6
             figure
@@ -74,14 +74,14 @@
               //figcaption Leyenda de la imagen
 
           .col-md-6.mb-4.mb-md-0
-            p Consiste en amontonar tierra alrededor del tallo o la base de la planta con el objetivo de brindarle anclaje, estabilidad, resistencia al viento, fortalecimiento del tallo, conservación de la humedad, favorecimiento del desarrollo de raíces, facilidad en el aprovechamiento de fertilizantes y ayuda en el control de arvenses. 
-            p Así mismo, permite que la humedad se conserve durante más tiempo en el tallo de la planta y, en caso de que se presenten altas temperaturas, los rayos solares no afectarán de manera directa la planta.
+            p.texto-acordeon-tema1 Consiste en amontonar tierra alrededor del tallo o la base de la planta con el objetivo de brindarle anclaje, estabilidad, resistencia al viento, fortalecimiento del tallo, conservación de la humedad, favorecimiento del desarrollo de raíces, facilidad en el aprovechamiento de fertilizantes y ayuda en el control de arvenses. 
+            p.texto-acordeon-tema1 Así mismo, permite que la humedad se conserve durante más tiempo en el tallo de la planta y, en caso de que se presenten altas temperaturas, los rayos solares no afectarán de manera directa la planta.
 
         
           
         
         
-        .row(titulo="Riego")
+        .row(titulo="Riego").fila4-acord-lab-culturales-tema1
 
           .col-md-6
             figure
@@ -89,14 +89,14 @@
               //figcaption Leyenda de la imagen
 
           .col-md-6.mb-4.mb-md-0
-            p Es una labor de gran importancia, asegura la humedad requerida por las plantas para lograr un adecuado crecimiento y desarrollo. Se debe garantizar y reponer el agua consumida por la planta mediante un riego oportuno y uniforme en la zona de la raíz, evitando excesos o déficit, lo que puede llegar a causar problemáticas como bajos rendimientos, erosión del suelo, lavado de nutrientes, pérdida de agua y drenaje inadecuado. 
+            p.texto-acordeon-tema1 Es una labor de gran importancia, asegura la humedad requerida por las plantas para lograr un adecuado crecimiento y desarrollo. Se debe garantizar y reponer el agua consumida por la planta mediante un riego oportuno y uniforme en la zona de la raíz, evitando excesos o déficit, lo que puede llegar a causar problemáticas como bajos rendimientos, erosión del suelo, lavado de nutrientes, pérdida de agua y drenaje inadecuado. 
               | Es importante identificar el estado del suelo antes de implementar el sistema de riego, esto, con el fin de que el sistema radicular y poroso permita, de manera adecuada, la infiltración del agua suministrada a través del riego, donde, según el tipo de cultivo, será necesario la implementación de un sistema de riego en particular, diseñado según el requerimiento hídrico que presenten las plantas en cada una de sus etapas.
 
         
           
 
         
-        .row(titulo="Tutorado")
+        .row(titulo="Tutorado").fila5-acord-lab-culturales-tema1
 
         
           .col-md-6
@@ -105,11 +105,11 @@
               //figcaption Leyenda de la imagen
           
           .col-md-6.mb-4.mb-md-0
-            p Consiste en brindar soporte a la parte aérea de las plantas para guiarlas y mantenerlas de forma vertical, esto se realiza por medio de ciertos materiales,  los cuales se amarra el tallo o las ramas con la finalidad de darle un adecuado desarrollo, evitando, así, daños durante la fase productiva.
+            p.texto-acordeon-tema1 Consiste en brindar soporte a la parte aérea de las plantas para guiarlas y mantenerlas de forma vertical, esto se realiza por medio de ciertos materiales,  los cuales se amarra el tallo o las ramas con la finalidad de darle un adecuado desarrollo, evitando, así, daños durante la fase productiva.
 
 
         
-        .row(titulo="Control de arvenses")
+        .row(titulo="Control de arvenses").fila6-acord-lab-culturales-tema1
 
           .col-md-6
             figure
@@ -117,12 +117,12 @@
               //figcaption Leyenda de la imagen
 
           .col-md-6.mb-4.mb-md-0
-            p Previene, reduce y erradica plantas no deseadas, evitando interferencias de crecimiento entre las plantas, o consecuencias negativas al competir por la luz solar y los nutrientes. 
-            p El mantenimiento de cultivos previene generadores de enfermedades y plagas, como también de plantas ‘hospederas’, sin desproteger el suelo. Seleccionar el método apropiado de control depende de la biología, morfología, modo de desarrollo, forma de reproducción, comportamiento, medios de difusión, etc., del arvense, e, igualmente, de la cantidad, las especies en cultivo, el estado de cosecha y la capacidad económica del agricultor. 
+            p.texto-acordeon-tema1 Previene, reduce y erradica plantas no deseadas, evitando interferencias de crecimiento entre las plantas, o consecuencias negativas al competir por la luz solar y los nutrientes. 
+            p.texto-acordeon-tema1 El mantenimiento de cultivos previene generadores de enfermedades y plagas, como también de plantas ‘hospederas’, sin desproteger el suelo. Seleccionar el método apropiado de control depende de la biología, morfología, modo de desarrollo, forma de reproducción, comportamiento, medios de difusión, etc., del arvense, e, igualmente, de la cantidad, las especies en cultivo, el estado de cosecha y la capacidad económica del agricultor. 
             p Otra ventaja del control de arvenses es la conservación de humedad en la planta, el equilibrio, el agroecosistema, además de la regulación de presencia de insectos, pues algunos se alimentan de este. Igualmente, al implementar una variedad de control de arvenses, se actúa como repelente y controlador de insectos perjudiciales para los cultivos, controlando o evitando que se desarrollen en esa área, evitando, por ejemplo, la <em>‘Ranunculus acris’</em> o botón de oro, o la formación de nidos de hormigas arrieras, <em>‘Atta cephalotes’</em>.
         
 
-        .row(titulo="Poda")
+        .row(titulo="Poda").fila7-acord-lab-culturales-tema1
 
           .col-md-6
             figure
@@ -131,16 +131,13 @@
 
           
           .col-md-6.mb-4.mb-md-0
-            p Radica en cortar o suprimir partes vegetativas, beneficiando, así, el desarrollo vegetativo, aumentando la capacidad de producción y mejorando la arquitectura, lo que ayuda, a su vez, a la circulación del aire y luz, la estimulación del desarrollo de ramas, además de facilitar la realización de las demás labores culturales.  
-            p Los frutos se desarrollan con mayor facilidad en árboles con copas abiertas, aireados, iluminados con luz solar, así, tienen más carbohidratos, ácidos orgánicos, vitamina C, y azúcares que mejoran el estado sanitario de ellos. Por el contrario, los frutos desarrollados en copas cerradas, o que reciben radiación directa, presentan pulpa consistente, epidermis gruesa y son resistentes a fisiopatías en postcosecha.  
-            p Las podas se realizan según las necesidades del árbol, aunque, después de una poda, las plantas invierten mucha energía en recuperar su área foliar, por lo que se reduce la cantidad de frutos producidos. 
-            p La poda puede ser manual, mecánica o química. Algunos tipos de poda son de formación, mantenimiento, producción, rejuvenecimiento o de regeneración. Así mismo, se realizan podas en función de órganos, por ejemplo, se eliminan hojas, flores, frutos, yemas o tallos, con diferentes tipos de corte, como el despunte o rebaje, y el aclareo o raleo. 
+            p.texto-acordeon-tema1 Radica en cortar o suprimir partes vegetativas, beneficiando, así, el desarrollo vegetativo, aumentando la capacidad de producción y mejorando la arquitectura, lo que ayuda, a su vez, a la circulación del aire y luz, la estimulación del desarrollo de ramas, además de facilitar la realización de las demás labores culturales.  
+            p.texto-acordeon-tema1 Los frutos se desarrollan con mayor facilidad en árboles con copas abiertas, aireados, iluminados con luz solar, así, tienen más carbohidratos, ácidos orgánicos, vitamina C, y azúcares que mejoran el estado sanitario de ellos. Por el contrario, los frutos desarrollados en copas cerradas, o que reciben radiación directa, presentan pulpa consistente, epidermis gruesa y son resistentes a fisiopatías en postcosecha.  
+            p.texto-acordeon-tema1 Las podas se realizan según las necesidades del árbol, aunque, después de una poda, las plantas invierten mucha energía en recuperar su área foliar, por lo que se reduce la cantidad de frutos producidos. 
+            p.texto-acordeon-tema1 poda puede ser manual, mecánica o química. Algunos tipos de poda son de formación, mantenimiento, producción, rejuvenecimiento o de regeneración. Así mismo, se realizan podas en función de órganos, por ejemplo, se eliminan hojas, flores, frutos, yemas o tallos, con diferentes tipos de corte, como el despunte o rebaje, y el aclareo o raleo. 
 
         
-
-        
-        
-        .row(titulo="Manejo de plagas y enfermedades")
+        .row(titulo="Manejo de plagas y enfermedades").fila8-acord-lab-culturales-tema1
 
           .col-md-6
             figure
@@ -148,9 +145,10 @@
               //figcaption Leyenda de la imagen
 
           .col-md-6.mb-4.mb-md-0
-            p Es la elección e implementación de medidas de control mecánico, físico, biológico y etológico, para proteger el cultivo de plagas, virus, insectos, bacterias, hongos, nematodos, ácaros, roedores, aves, reptiles, murciélagos, o elementos causantes de afecciones, cortes, perforaciones, deformaciones o defoliaciones, que inoculan toxinas, reducen la cantidad y calidad de la cosecha, aumentan costos de producción, o transmiten enfermedades y causan la muerte de la planta.
-            p Es vital manejar las enfermedades y las alteraciones del estado o del funcionamiento de la planta, revisando malformaciones, marchitamiento, manchas, agallas, necrosis o pudriciones. Se debe controlar la presencia de un hospedante susceptible de patógenos y de condiciones ambientales que favorezcan su desarrollo. 
-            p En caso de encontrar plagas o enfermedades, se debe aplicar productos para el control sanitario, garantizando su persistencia en el producto cosechado, siguiendo las instrucciones y medidas recomendadas por el fabricante frente a los tiempos, rotaciones de cultivos, fertilización de los suelos, horas y métodos de aplicación, especialmente, entre la última aplicación y la cosecha
+            .texto-acordeon-tema1
+              p Es la elección e implementación de medidas de control mecánico, físico, biológico y etológico, para proteger el cultivo de plagas, virus, insectos, bacterias, hongos, nematodos, ácaros, roedores, aves, reptiles, murciélagos, o elementos causantes de afecciones, cortes, perforaciones, deformaciones o defoliaciones, que inoculan toxinas, reducen la cantidad y calidad de la cosecha, aumentan costos de producción, o transmiten enfermedades y causan la muerte de la planta.
+              p Es vital manejar las enfermedades y las alteraciones del estado o del funcionamiento de la planta, revisando malformaciones, marchitamiento, manchas, agallas, necrosis o pudriciones. Se debe controlar la presencia de un hospedante susceptible de patógenos y de condiciones ambientales que favorezcan su desarrollo. 
+              p En caso de encontrar plagas o enfermedades, se debe aplicar productos para el control sanitario, garantizando su persistencia en el producto cosechado, siguiendo las instrucciones y medidas recomendadas por el fabricante frente a los tiempos, rotaciones de cultivos, fertilización de los suelos, horas y métodos de aplicación, especialmente, entre la última aplicación y la cosecha
 
       p.texto-final-labores-culturales Así como las labores culturales son importantes en los cultivos agroecológicos, existen roles de manejo combinado bajo la metodología del manejo agroecológico, estos son conocidos como arvenses y serán descritos a continuación.
     br
@@ -167,13 +165,21 @@
         h2 1.2 Arvenses 
 
       .row
+
+          figure
+              img(src='@/assets/curso/temas/img-fondo-lad-izq-arvenses.png', alt='Texto que describa la imagen').img-fondo-lad-izq-arvenses
           
           .col-md-7
-            .bloque-letras-color-tema1
-              .letras-color-tema1 
-                span a 
-              h4.subtitulo-letras-color-tema1 Rol ecologico
             
+            .col-sm.mb-5.mb-sm-0
+            
+              ol.lista-ol--cuadro
+                li 
+                  .lista-ol--cuadro__vineta.color-acento-contenido
+                    span a
+                  | Rol ecologico
+
+
             p.bloque-texto-rol-ecologico Las arvenses son las plantas conocidas comúnmente como maleza, no tienen ningún interés o utilidad, es decir, no son deseables y, por tanto, deben ser destruidas. Las arvenses llegan a generar pérdidas y afectaciones directas en la producción agrícola, aproximadamente el 10% de la producción se ve afectada debido a que las arvenses interfieren en el crecimiento de los cultivos. Igualmente, se generan consecuencias tanto en la disminución en los rendimientos, pues compite con las otras plantas por nutrientes, espacio, suelo y recursos vitales (agua, sol), como en el valor del producto cosechado, ya que afecta su calidad, al presentar impurezas que pueden influir en el sabor, olor y color de la cosecha.
             .bloque-color-arvenses
           
@@ -189,11 +195,14 @@
     //Slider simple
     .row.container.justify-content-around.align-items-center
 
-      figure
+      
+      .row
+  
+        figure
           img(src='@/assets/curso/temas/imagen-fondo-slider1.png', alt='Texto que describa la imagen').imagen-fondo-slider2-tema1
       .tarjeta.p-4
         SlyderA(tipo="b")
-          
+
           .row
           
             .col-md-6.mb-4.mb-md-0
@@ -269,11 +278,16 @@
           
         .row(data-aos="fade-right").color-columna-izquierda-tarjeta-utilidad
           .col-lg-7
-            .bloque-letras-color-tema1.bloque-texto-tarjeta-utilidad-tema1.p-2
-              .texto-sup-tarjeta-utilidad-tema1
-                .letras-color-tema1 
-                  span b 
-                h4.subtitulo-letras-color-tema1 Utilidad 
+            
+            .bloque-texto-tarjeta-utilidad-tema1.p-2
+              .col-sm.mb-5.mb-sm-0
+              
+                ol.lista-ol--cuadro
+                  li 
+                    .lista-ol--cuadro__vineta.color-acento-contenido
+                      span b
+                    | Utilidad 
+             
 
               p.texto-inf-tarjeta-utilidad-tema1 Las arvenses no solo aportan de forma negativa, también, como lo indica Aguilar et al., (2021), generan impactos positivos al ser un factor inherente a la diversidad de los ecosistemas, contribuyendo con la conservación del suelo, aumentando la estabilidad de los agroecosistemas, incrementando la cantidad de material genético y ayudando a recuperar la biodiversidad vegetal. Todo esto, además, brinda las condiciones necesarias para que existan mayor diversificación de la fauna entomológica, es decir, promueve la reproducción de insectos y artrópodos. Además, las arvenses pueden ser fuente de alimento o servir como materia prima en la fabricación de fertilizantes orgánicos, incluso, algunos, cuentan con propiedades medicinales.
           
@@ -286,21 +300,22 @@
     br
 
     .row.justify-content-around.align-items-center
-        
-        .row
-          .col-lg-7
-            .bloque-vineta-rol-ecologico
-              .bloque-letras-color-tema1
-                .letras-color-tema1 
-                  span b  
-                h4.subtitulo-letras-color-tema1  Rol ecológico y utilidad
 
-        .titulo-sexto.color-acento-contenido.mb-3
-          h5 Figura 1.
-          span <em>Rol ecológico y utilidad de las arvenses</em>
+        .col-sm.mb-5.mb-sm-0
+                ol.lista-ol--cuadro
+                    li 
+                      .lista-ol--cuadro__vineta.color-acento-contenido
+                        span b
+                      | Rol ecológico y utilidad
         
         .row
-          .col-lg-10
+
+          .titulo-sexto.color-acento-contenido.mb-3
+            h5 Figura 1.
+            span <em>Rol ecológico y utilidad de las arvenses</em>
+        
+        .row
+          .col-lg-12
             figure
                 img(src='@/assets/curso/temas/imagen-rol-ecologico.png', alt='Texto que describa la imagen').imagen-rol-ecologico-tema1
         
@@ -321,12 +336,13 @@
           h2 1.3  Equipos y herramientas
 
         .row
-          .col-7
+          .col-lg-8
             .bloque-texto-equipos-herramientas
               p.texto-color-herramientas Para el desarrollo de las labores culturales anteriormente descritas  (trasplante, raleo, aporque, riego, tutorado, control de arvenses, poda o manejo de plagas) y para facilitar su ejecución, se requiere de diversas herramientas, equipos y utensilios con variada forma y tamaño. 
               p.texto-color-herramientas Las herramientas más comunes usadas en actividades como el aporque, el control de arvenses y el raleo, son instrumentos de borde filoso, como machetes de variada forma de hoja, y azadones, usados, comúnmente, para abrir tierras. También se emplean herramientas de borde de corte para cortar raíces, picos para trabajos de excavación y construcción, palas, e implementos de excavación, para mover materiales sueltos o no consolidados, que cuentan con una amplia gama de diseños disponibles, por ejemplo, rectangulares y redonda, a su vez, se emplea, igualmente, la hoz y el rastrillo.
               .bloque-color-herramientas
-          .col-5
+          
+          .col-lg-4
             
             figure
                 img(data-aos="fade-left")(src='@/assets/curso/temas/imagen-equipos-herramientas.png', alt='Texto que describa la imagen').imagen-equipos-herramientas

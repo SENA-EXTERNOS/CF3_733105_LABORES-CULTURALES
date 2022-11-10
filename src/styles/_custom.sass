@@ -18,6 +18,9 @@
   100%
     transform: rotate(360deg)
 
+.banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6
+  color: black !important
+
 .banner-principal-decorativo-1
   position: relative
   top: 2%
@@ -49,13 +52,17 @@
 
 .fondo.texto-slider-tema1
   position: relative
-  left: 5%
   background-color: #f2f8e8
   background-size: 200px
 
+.datosSlyder
+  position: relative
+  top: 1em !important
+
 .slyder-b__img
   position: relative
-  width: 90%
+  top: -5%
+  width: 100%
 
 .horizontal-scroll__wrapper[data-v-e258dbfc]
   position: relative
@@ -68,20 +75,21 @@
   
 .color-exterior-slider-tema1
   position: relative
-  background-color: #E1F0EF
+  background-color:#E1F0EF
 
 .imagenes-acordeon-tema1
   position: relative
-  top: 1em
-  left: 25%
-  width: 50%
+  top: 0em
+  left: 4%
+  width: 45%
+  max-width: 200px
   
 
 .imagen-rol-ecologico-tema1
   position: relative
-  top: 5%
-  left: 25%
-  width: 60%
+  top: 2em
+  left: 10%
+  width: 80%
 
 .bloque-vineta-rol-ecologico
   position: relative
@@ -112,7 +120,7 @@
 .bloque-texto-rol-ecologico
   position: relative
   width: 110%
-  top: 3em
+  top: 0em
   z-index: 1
 
 .bloque-slider-simple-tema1
@@ -166,17 +174,13 @@
 
 .bloque-color-arvenses
   position: absolute
-  top: 25%
-  left: 3%
-  width: 400px
-  height: 130px
+  top: 20%
+  left: 1%
+  width: 450px
+  height: 80px
   background-color: #D9F2A1
 
-.imagen-rol-ecologico-tema1
-  position: relative
-  top: 2em
-  left: 25%
-  width: 70%
+  
 
 .texto-final-rol-ecologico
   position: relative
@@ -185,13 +189,14 @@
 
 .imagen-equipos-herramientas
   position: relative
-  left: 5%
+  left: 20%
   width: 70%
 
 .bloque-texto-equipos-herramientas
   position: relative
-  top: 2em
-  left: 2%
+  left: -1%
+  top: 1em
+  width: 110%
 
 .imagenes-slider2-tema1
   position: relative
@@ -207,27 +212,28 @@
   top: 2em
   left: 5%
   width: 100%
-
-.slyder-b__img
-  position: relative
-  width: 80%
-
-
+  
+  
 .imagen-fondo-slider2-tema1
   position: absolute
+  display: block
   top: 10%
-  width: 100%
+  max-width: 100%
+  height: auto
   left: 1%
   transform: scale(1, 1.15)
   transform-origin: left
+  min-device-width: 400px
 
 .bloque-color-herramientas
   position: absolute
-  bottom: 82%
-  right: 40%
-  width: 400px
-  height: 80px
+  bottom: 90%
+  left: -3%
+  width: 300px
+  max-width: 100%
+  height: auto
   background-color: #D9F2A1
+  background-size: calc( 100% - 300px) auto 
 
 .texto-color-herramientas
   position: relative
@@ -240,6 +246,7 @@
   width: 90%
   transform: scale(1, 1.6)
   transform-origin: left
+
 
 .texto-final-tema2
   position: relative
@@ -287,8 +294,9 @@
 
 .imagen-der-pasos-verticales
   position: relative
-  width: 120%
+  width: 100%
   background-color: #F2EDDC
+  padding: 20px
 
 .linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title
   position: relative
@@ -315,7 +323,11 @@
 
 .bloque-acordeon-tema2
   position: relative
-  top: 3em
+  top: 4em
+
+.img-der-acordeon-tema2
+  position: relative
+  bottom: 1em
 
 .tarjetas-acordeon-tema2
   position: relative
@@ -336,6 +348,8 @@
 
 .imagen2-caract-abonos-tema2
   position: relative
+  left: 15%
+  top: 3em
   width: 60%
 
 .bloque2-caract-abonos-tema2
@@ -352,8 +366,12 @@
 
 .imagen-inoculantes-biologicos
   position: relative
-  left: 40%
+  left: 32%
   width: 70%
+
+.texto-final-inoculantes-biologicos
+  position: relative
+  top: 3em
 
 .fondo-tarjeta-inoculantes-biologicos
   position: relative
@@ -361,7 +379,7 @@
 
 .bloque-texto-f
   position: relative
-  right: 2%
+  right: 3%
   width: 120%
 
 .bloque-color-superior-bloque-ica
@@ -383,6 +401,7 @@
 
 .imagen-final-tema2
   position: relative
+  top: 1em
   width: 100%
   left: 5%
 
@@ -447,7 +466,7 @@
   padding: 0 !important
   overflow: hidden !important
   --bs-gutter-x: 0rem
-  --bs-gutter-y: 0rem
+  --bs-gutter-y: 23rem
   padding-left: 1em !important
   display: flex
   flex-wrap: wrap
@@ -476,7 +495,8 @@
   color: #E26C1E
 
 .fondo-color-tarjetas-conectadas
-  background-color: #F3F9FF  
+  background-color: #F3F9FF
+  left: 15%
 
 .espacios-color-tarjeta1-tema2
   position: relative
@@ -500,7 +520,7 @@
 
 .texto-tarjetas-conectadas
   position: relative
-  right: 5%
+  right: 4%
 
 .texto-final-tarjetas-conectadas
   position: relative
@@ -519,5 +539,71 @@
 .tarjeta .acordion__activo
   position: relative
   width: 102%
+  padding-top: 5%
   right: 1%
   background-color: #F9F7EF
+
+
+//AJUSTES
+
+
+.fila2-acord-lab-culturales-tema1
+  position: relative
+  padding-top: 1em
+  top: 1em
+
+.fila3-acord-lab-culturales-tema1
+  position: relative
+  top: 1em
+
+.fila4-acord-lab-culturales-tema1
+  position: relative
+  top: 1em
+
+.fila5-acord-lab-culturales-tema1
+  position: relative
+  top: 1em
+
+.fila6-acord-lab-culturales-tema1
+  position: relative
+  top: 1em
+
+.fila7-acord-lab-culturales-tema1
+  position: relative
+  top: 1em
+
+.fila8-acord-lab-culturales-tema1
+  position: relative
+  top: 1em
+
+.texto-acordeon-tema1
+  position: relative
+  top: 2%
+  right: 45% 
+  width: 135%
+
+.lista-ol--cuadro__vineta
+  position: relative
+  background-color: $color-primario
+  z-index: 1
+
+.lista-ol--cuadro li
+  position: relative
+  color: black
+  font-weight: bold
+  z-index: 1
+
+.fondo-tar1-tema1
+  position: absolute
+  right: 0%
+  top: 5%
+  width: 40%
+  
+.img-fondo-lad-izq-arvenses
+  position: absolute
+  top: -20%
+  left: 0%
+  width: 25%
+
+.texto-invisible
+  visibility: hidden
