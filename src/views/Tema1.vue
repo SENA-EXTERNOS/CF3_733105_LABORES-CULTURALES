@@ -11,7 +11,11 @@
           
           .col-lg-8
             .bloque-color-superior
-            p.texto-color-superior.p-3 Al hablar de manejo de cultivos, se hace referencia a la serie de actividades llevadas a cabo durante la producción (desde la siembra hasta la cosecha) de los cultivos, estas labores influyen en los rendimientos y la calidad de los cultivos, porque, con su adecuada y oportuna realización, es decir, en el momento y la fecha adecuada, se aumenta y mejora la producción agrícola.
+            p.texto-color-superior.p-3 Al hablar de manejo de cultivos, se hace referencia a la serie de actividades llevada a cabo durante toda la producción de cultivos (desde la siembra hasta la cosecha); labores que influyen en los rendimientos y la calidad de los mismos, porque con su adecuada y oportuna realización, es decir, en el momento y la fecha adecuadas, aumenta y mejora la producción agrícola.
+
+              br
+              br
+              |Sobre el manejo de cultivos, tenga presente los siguientes aspectos:
           
           .col-lg-4
             figure
@@ -118,8 +122,12 @@
 
           .col-md-6.mb-4.mb-md-0
             p.texto-acordeon-tema1 Previene, reduce y erradica plantas no deseadas, evitando interferencias de crecimiento entre las plantas, o consecuencias negativas al competir por la luz solar y los nutrientes. 
-            p.texto-acordeon-tema1 El mantenimiento de cultivos previene generadores de enfermedades y plagas, como también de plantas ‘hospederas’, sin desproteger el suelo. Seleccionar el método apropiado de control depende de la biología, morfología, modo de desarrollo, forma de reproducción, comportamiento, medios de difusión, etc., del arvense, e, igualmente, de la cantidad, las especies en cultivo, el estado de cosecha y la capacidad económica del agricultor. 
-            p Otra ventaja del control de arvenses es la conservación de humedad en la planta, el equilibrio, el agroecosistema, además de la regulación de presencia de insectos, pues algunos se alimentan de este. Igualmente, al implementar una variedad de control de arvenses, se actúa como repelente y controlador de insectos perjudiciales para los cultivos, controlando o evitando que se desarrollen en esa área, evitando, por ejemplo, la <em>‘Ranunculus acris’</em> o botón de oro, o la formación de nidos de hormigas arrieras, <em>‘Atta cephalotes’</em>.
+              br
+              br
+              |El mantenimiento de cultivos previene generadores de enfermedades y plagas, como también de plantas ‘hospederas’, sin desproteger el suelo. Seleccionar el método apropiado de control depende de la biología, morfología, modo de desarrollo, forma de reproducción, comportamiento, medios de difusión, etc., del arvense, e, igualmente, de la cantidad, las especies en cultivo, el estado de cosecha y la capacidad económica del agricultor. 
+              br
+              br
+              |Otra ventaja del control de arvenses es la conservación de humedad en la planta, el equilibrio, el agroecosistema, además de la regulación de presencia de insectos, pues algunos se alimentan de este. Igualmente, al implementar una variedad de control de arvenses, se actúa como repelente y controlador de insectos perjudiciales para los cultivos, controlando o evitando que se desarrollen en esa área, evitando, por ejemplo, la <em>‘Ranunculus acris’</em> o botón de oro, o la formación de nidos de hormigas arrieras, <em>‘Atta cephalotes’</em>.
         
 
         .row(titulo="Poda").fila7-acord-lab-culturales-tema1
@@ -147,10 +155,14 @@
           .col-md-6.mb-4.mb-md-0
             .texto-acordeon-tema1
               p Es la elección e implementación de medidas de control mecánico, físico, biológico y etológico, para proteger el cultivo de plagas, virus, insectos, bacterias, hongos, nematodos, ácaros, roedores, aves, reptiles, murciélagos, o elementos causantes de afecciones, cortes, perforaciones, deformaciones o defoliaciones, que inoculan toxinas, reducen la cantidad y calidad de la cosecha, aumentan costos de producción, o transmiten enfermedades y causan la muerte de la planta.
-              p Es vital manejar las enfermedades y las alteraciones del estado o del funcionamiento de la planta, revisando malformaciones, marchitamiento, manchas, agallas, necrosis o pudriciones. Se debe controlar la presencia de un hospedante susceptible de patógenos y de condiciones ambientales que favorezcan su desarrollo. 
-              p En caso de encontrar plagas o enfermedades, se debe aplicar productos para el control sanitario, garantizando su persistencia en el producto cosechado, siguiendo las instrucciones y medidas recomendadas por el fabricante frente a los tiempos, rotaciones de cultivos, fertilización de los suelos, horas y métodos de aplicación, especialmente, entre la última aplicación y la cosecha
+                br
+                br
+                |Es vital manejar las enfermedades y las alteraciones del estado o del funcionamiento de la planta, revisando malformaciones, marchitamiento, manchas, agallas, necrosis o pudriciones. Se debe controlar la presencia de un hospedante susceptible de patógenos y de condiciones ambientales que favorezcan su desarrollo. 
+                br
+                br
+                |En el caso de encontrar plagas o enfermedades, se deben aplicar productos para el control sanitario, garantizando su persistencia en el producto cosechado, siguiendo las instrucciones y medidas recomendadas por el fabricante frente a los tiempos, rotaciones de cultivos, fertilización de los suelos, horas y métodos de aplicación, especialmente, entre la última aplicación y la cosecha.
 
-      p.texto-final-labores-culturales Así como las labores culturales son importantes en los cultivos agroecológicos, existen roles de manejo combinado bajo la metodología del manejo agroecológico, estos son conocidos como arvenses y serán descritos a continuación.
+      p.texto-final-labores-culturales Así como las labores culturales son importantes en los cultivos agroecológicos, existen roles de manejo combinado bajo la metodología del manejo agroecológico; estos son conocidos como arvenses y serán descritos a continuación:
     br
 
     separador
@@ -160,9 +172,7 @@
     .row.container.justify-content-around.align-items-center
             
 
-      #arvenses
-      .titulo-segundo.color-acento-contenido
-        h2 1.2 Arvenses 
+      h3 Arvenses 
 
       .row
 
@@ -181,6 +191,9 @@
 
 
             p.bloque-texto-rol-ecologico Las arvenses son las plantas conocidas comúnmente como maleza, no tienen ningún interés o utilidad, es decir, no son deseables y, por tanto, deben ser destruidas. Las arvenses llegan a generar pérdidas y afectaciones directas en la producción agrícola, aproximadamente el 10% de la producción se ve afectada debido a que las arvenses interfieren en el crecimiento de los cultivos. Igualmente, se generan consecuencias tanto en la disminución en los rendimientos, pues compite con las otras plantas por nutrientes, espacio, suelo y recursos vitales (agua, sol), como en el valor del producto cosechado, ya que afecta su calidad, al presentar impurezas que pueden influir en el sabor, olor y color de la cosecha.
+              br
+              br
+              |Sobre el rol ecológico de los arvenses, tenga presente:
             .bloque-color-arvenses
           
           .col-md-5
@@ -301,26 +314,16 @@
 
     .row.justify-content-around.align-items-center
 
-        .col-sm.mb-5.mb-sm-0
-                ol.lista-ol--cuadro
-                    li 
-                      .lista-ol--cuadro__vineta.color-acento-contenido
-                        span b
-                      | Rol ecológico y utilidad
-        
-        .row
-
-          .titulo-sexto.color-acento-contenido.mb-3
-            h5 Figura 1.
-            span <em>Rol ecológico y utilidad de las arvenses</em>
-        
+        p.mb-5(data-aos='fade-right') En el siguiente esquema, analice otras particularidades del rol ecológico y la utilidad de los arvenses:
         .row
           .col-lg-12
             figure
                 img(src='@/assets/curso/temas/imagen-rol-ecologico.png', alt='Texto que describa la imagen').imagen-rol-ecologico-tema1
         
-        p.texto-final-rol-ecologico Las asociaciones entre plantas o cultivos intercalados, conocidos también como arvenses, proporcionan herramientas biológicas en las plantaciones para el manejo productivo. Así mismo, se describen, a continuación, las herramientas y los equipos que facilitan las labores en el campo y mejoran los trabajos agropecuarios. 
-    
+        .row.justify-content-center.my-5
+          .col-lg-10
+            .cajon.color-acento-botones.p-4.mb-4(style="background-color: #fff2df")
+              p.mb-0 Las asociaciones entre plantas o cultivos intercalados, conocidos también como arvenses, proporcionan herramientas biológicas en las plantaciones para el manejo productivo. 
     br
     br
 
@@ -331,9 +334,7 @@
 
     .row.container.justify-content-around.align-items-center
 
-        #equipos-y-herramientas
-        .titulo-segundo.color-acento-contenido
-          h2 1.3  Equipos y herramientas
+        h3 Equipos y herramientas
 
         .row
           .col-lg-8
@@ -349,6 +350,7 @@
     
     br
     br
+    p.mb-5(data-aos='fade-right') A continuación, se detallan algunas diferencias y particularidades de tales elementos:
 
     .row.container.justify-content-around.align-items-center
         .row
@@ -357,7 +359,6 @@
           
           SlyderB.mb-5(:datos="datosSlyder2").slider2-tema1
         
-        p.texto-final-tema2 Se ha tratado, ya, la temática respecto a las labores culturales en el cultivo y el manejo de arvenses, ahora, en esta nueva sección, se abordará la fertilización en los cultivos, junto con el manejo de plagas y enfermedades.
 
 
       
@@ -371,9 +372,9 @@ export default {
     // variables de vue
     datosSlyder: [
       {
-        titulo: 'Manejo de cultivos',
+        titulo: 'Actividades',
         texto:
-          'Entre las principales labores de manejo cultural, existen actividades enfocadas a dar soporte y formación sobre las plantas como el tutorado, la poda, el raleo y el aporque, o dirigidas a evitar la competencia por nutrientes, agua, luz y espacio, como el manejo de arvenses, sin contar con las encaminadas a satisfacer las necesidades hídricas, como el riego y el drenaje. Así mismo, es importante considerar las técnicas de aplicación y regulación de nutrientes, y demás labores de control para evitar enfermedades, disminución o pérdida de cultivos, como el embolsado de frutos o el manejo ecológico de plagas y enfermedades.',
+          'Entre las principales labores de manejo cultural, existen actividades enfocadas a dar soporte y formación sobre las plantas: el tutorado, la poda, el raleo y el aporque. También pueden estar dirigidas a evitar la competencia por nutrientes, agua, luz y espacio, como el manejo de arvenses, sin contar con las encaminadas a satisfacer las necesidades hídricas, como el riego y el drenaje. Asimismo, es importante considerar las técnicas de aplicación y regulación de nutrientes y demás labores de control, para evitar enfermedades, disminución o pérdida de cultivos (como el embolsado de frutos o el manejo ecológico de plagas y enfermedades).',
         imagen: require('@/assets/curso/temas/imagen1-slider-tema1.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
@@ -401,7 +402,7 @@ export default {
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
-        titulo: 'Equipos y utensilios',
+        titulo: 'Utensilios',
         texto:
           'Es importante resaltar que las herramientas, equipos y utensilios empleados en las labores culturales, deben estar en óptimas condiciones cada vez que se usen, se recomienda lavarlos con agua limpia y, de ser posible, desinfectarlos para evitar propagación de microorganismos. La ubicación y almacenamiento de los implementos debe ser en un lugar limpio, señalizado y ordenado, contando con las estanterías o repisas apropiadas, que soporten  el peso sobre la pared. Así mismo, deben estar separados de otros insumos y se les debe realizar mantenimientos y calibraciones preventivas, con su respectivo registro en formatos. Además, es importante contar con los manuales e instructivos de uso y, así, evitar riesgos de contaminación cruzada, deterioro, accidentes laborales y mal funcionamiento.',
 

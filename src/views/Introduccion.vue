@@ -12,8 +12,18 @@
     .row.justify-content-around.align-items-center
     
       .col-md.col-lg-12
+        .row.justify-content-center.mb-5
+          .col-lg-10.bloque-derecha
+            .bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5
+              .bloque-texto-g__img(
+                :style="{'background-image':`url(${require('@/assets/curso/temas/c1.jpg')})`}"
+              )
+              .bloque-texto-g__texto.p-4
+                p.mb-0 Apreciado aprendiz, bienvenido a este componente formativo, donde se abordarán temáticas relacionadas con el manejo de cultivos y actividades que buscan desarrollar labores culturales, según criterios agroecológicos, así como también la fertilización de cultivos, de acuerdo con los criterios técnicos, las necesidades de cada predio y los principios agroecológicos.
+                  br
+                  br
+                  |En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo.
       
-        p.p-2 Apreciado aprendiz, bienvenido a este nuevo componente formativo donde se abordan temáticas relacionadas con el manejo de cultivos y actividades que buscan desarrollar labores culturales según criterios agroecológicos, así como también la fertilización de cultivos de acuerdo con los criterios técnicos, las necesidades de cada predio y los principios agroecológicos. Como veremos en el siguiente video.
   
   
     .row.tarjeta.tarjeta--blanca.p-2.p-md-3

@@ -14,11 +14,16 @@
       .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
         .tarjeta.h-100.d-flex.align-items-center.p-4
           figure
-            img(src="@/assets/curso/temas/imagen-act-didactica.png", alt="Texto que describa la imagen")
+            img(src="@/assets/curso/temas/ad.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.acento-contenido
-          h2 Completar
-        p.mb-4 A continuación, encontrará una actividad didáctica que le permitirá afianzar los conocimientos sobre manejo de labores culturales, según los procedimientos técnicos y las buenas prácticas agrícolas. 
+          h2 Manejando las labores culturales
+        p.mb-4 Esta actividad le permitirá determinar el grado de apropiación de los contenidos del componente formativo.
+
+          br
+          br
+          |De acuerdo con la definición planteada, digite correctamente en el campo vacío, la palabra o términos que completarían el sentido real de la proposición.
+
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

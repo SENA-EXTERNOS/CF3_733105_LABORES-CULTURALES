@@ -35,26 +35,6 @@ export default {
         numero: '1',
         titulo: ' Manejo de cultivo',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Labores culturales',
-            hash: 'labores-culturales',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Arvenses',
-            hash: 'arvenses',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Equipos y herramientas',
-            hash: 'equipos-y-herramientas',
-          },
-        ],
       },
 
       {
@@ -79,12 +59,6 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.3',
-            titulo: 'Biofábricas o sitios de preparación',
-            hash: 'biofabricas-o-sitios-de-preparacion',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.4',
             titulo: 'Normatividad',
             hash: 'normatividad',
           },
@@ -141,7 +115,7 @@ export default {
         'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/43819',
     },
     {
-      tema: 'Arvenses: Rol ecológico',
+      tema: 'Manejo de cultivos',
       referencia:
         'Labrada, R., Caseley, J. C., & Parker, C. (1996). Manejo de malezas para países en desarrollo. Organización de las Naciones Unidas para la Agricultura y la Alimentación.',
       tipo: 'Libro',
@@ -155,7 +129,7 @@ export default {
       link: 'https://www.uaesp.gov.co/images/Guia-UAESP_SR.pdf',
     },
     {
-      tema: 'Fertilizantes o inoculantes biológicos',
+      tema: 'Fertilización',
       referencia:
         'Restrepo Franco, G. M., Ceballos Aguirre, N., Sánchez Toro, O. J., & Valenzuela Ospina, K. T. (2015). Importancia de los inoculantes biológicos en la agricultura. Universidad Católica de Manizales. ',
       tipo: 'Cartilla',
