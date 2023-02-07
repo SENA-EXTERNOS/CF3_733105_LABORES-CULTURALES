@@ -33,7 +33,7 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: ' Manejo de cultivo',
+        titulo: ' Manejo de cultivos',
         desarrolloContenidos: true,
       },
 
@@ -109,7 +109,7 @@ export default {
     {
       tema: 'Manejo de cultivos',
       referencia:
-        'González, E. D. (2015). Operaciones culturales, recolección, almacenamiento y envasado de productos (UF0162). IC Editorial.',
+        'González, E. D. (2015). <em>Operaciones culturales, recolección, almacenamiento y envasado de productos (UF0162).</em> IC Editorial.',
       tipo: 'Libro',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/43819',
@@ -117,21 +117,21 @@ export default {
     {
       tema: 'Manejo de cultivos',
       referencia:
-        'Labrada, R., Caseley, J. C., & Parker, C. (1996). Manejo de malezas para países en desarrollo. Organización de las Naciones Unidas para la Agricultura y la Alimentación.',
+        'Labrada, R., Caseley, J. C., & Parker, C. (1996). <em>Manejo de malezas para países en desarrollo.</em> Organización de las Naciones Unidas para la Agricultura y la Alimentación.',
       tipo: 'Libro',
       link: 'https://www.fao.org/3/T1147S/t1147s00.htm#Contents',
     },
     {
       tema: 'Fertilización',
       referencia:
-        'Universidad Nacional de Colombia. (2014). Guía técnica para el aprovechamiento de residuos orgánicos a través de metodologías de compostaje y lombricultura. Alcaldía Mayor de Bogotá.',
-      tipo: 'Libro',
+        'Universidad Nacional de Colombia. (2014). <em>Guía técnica para el aprovechamiento de residuos orgánicos a través de metodologías de compostaje y lombricultura.</em> Alcaldía Mayor de Bogotá.',
+      tipo: 'PDF',
       link: 'https://www.uaesp.gov.co/images/Guia-UAESP_SR.pdf',
     },
     {
       tema: 'Fertilización',
       referencia:
-        'Restrepo Franco, G. M., Ceballos Aguirre, N., Sánchez Toro, O. J., & Valenzuela Ospina, K. T. (2015). Importancia de los inoculantes biológicos en la agricultura. Universidad Católica de Manizales. ',
+        'Restrepo Franco, G. M., Ceballos Aguirre, N., Sánchez Toro, O. J., & Valenzuela Ospina, K. T. (2015). <em>Importancia de los inoculantes biológicos en la agricultura.</em> Universidad Católica de Manizales. ',
       tipo: 'Cartilla',
       link: 'https://repositorio.ucm.edu.co/handle/10839/2167',
     },
@@ -191,12 +191,12 @@ export default {
   referencias: [
     {
       referencia:
-        'Aguilar, M. A., González, L. C., & Tabaco, B. H. (2021). Caracterización ecológica de la flora de arvenses del alto y bajo Ricaurte (Boyacá). INGE CUC, 17(1), p. 112-125.',
+        'Aguilar, M. A., González, L. C., & Tabaco, B. H. (2021). Caracterización ecológica de la flora de arvenses del alto y bajo Ricaurte (Boyacá). <em>INGE CUC, 17(1)</em>, p. 112-125.',
       link: 'https://52.0.212.120/ingecuc/article/view/3112',
     },
     {
       referencia:
-        'Arzola, N. C. Pérez, Y. & Pérez, R. (2018). Métodos biológicos para una agricultura sostenible. Editorial Universo Sur. ',
+        'Arzola, N. C. Pérez, Y. & Pérez, R. (2018). <em>Métodos biológicos para una agricultura sostenible.</em> Editorial Universo Sur. ',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/120834',
     },
@@ -214,13 +214,13 @@ export default {
     },
     {
       referencia:
-        'Instituto Colombiano Agropecuario. (2019). Productos registrados bioinsumos. ICA. ',
+        'Instituto Colombiano Agropecuario. (2019). <em>Productos registrados bioinsumos.</em> ICA. ',
       link:
         'https://www.ica.gov.co/getdoc/2ad9e987-8f69-4358b8a9-e6ee6dcc8132/productos-bioinsumos-mayo-13-de-2008',
     },
     {
       referencia:
-        'Infante, Z., Ortega, P., & Coutiño, A. E. (2020). Las Biofábricas y su relación con el Desarrollo Sostenible en Michoacán, México, en De La Vega, S., Rózga, R, E. & Hoyos, G. (Cord.), Factores críticos y estratégicos en la interacción territorial, desafíos actuales y escenarios futuros (Vol. III) (p. 401-418). Asociación Mexicana de Ciencias para el Desarrollo Regional A. C. ',
+        'Infante, Z., Ortega, P., & Coutiño, A. E. (2020). Las Biofábricas y su relación con el Desarrollo Sostenible en Michoacán, México, en De La Vega, S., Rózga, R, E. & Hoyos, G. (Cord.), <em>Factores críticos y estratégicos en la interacción territorial, desafíos actuales y escenarios futuros</em> (Vol. III) (p. 401-418). Asociación Mexicana de Ciencias para el Desarrollo Regional A. C. ',
       link: 'http://ru.iiec.unam.mx/id/eprint/5122',
     },
     {
@@ -249,7 +249,7 @@ export default {
     },
     {
       referencia:
-        'Víllora, R. A., Álvarez, A. M., & Hernández-Plaza, E. (2019). Manejo y diversidad de las comunidades arvenses en las estepas cerealistas: propuestas para una gestión sostenible. Ecosistemas, 28(3), p. 36-45.',
+        'Víllora, R. A., Álvarez, A. M., & Hernández-Plaza, E. (2019). Manejo y diversidad de las comunidades arvenses en las estepas cerealistas: propuestas para una gestión sostenible. <em>Ecosistemas</em>, 28(3), p. 36-45.',
       link: 'https://doi.org/10.7818/ECOS.1821',
     },
   ],

@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Manejo de cultivo
+      h1 Manejo de cultivos
 
     .row.justify-content-around.align-items-center
           
@@ -31,19 +31,17 @@
     
     .row.justify-content-around.align-items-center
 
-      p A continuación, se presentan las labores culturales que se deben tener en cuenta en las prácticas agroecológicas para el manejo de cultivos.
     
-    separador
 
     //Acordeon viñeta izquierda
     .row.justify-content-around.align-items-center
       
-      #labores-culturales
-      .titulo-segundo.color-acento-contenido
-        h2 1.1  Labores culturales
+      h3 Labores culturales
 
       p Existen diversos tipos de labores culturales, las cuales pueden ser de carácter preventivo, de manejo y de control, o enfocadas al desarrollo fisiológico o al manejo de poblaciones asociadas, e influyen en el adecuado desarrollo de las plantas durante su crecimiento o producción.
-
+        br
+        br
+        | Tales labores culturales pueden ser: 
       AcordionA(tipo="a" clase-tarjeta="tarjeta color-exterior-slider-tema1")
         .row(titulo="Trasplante")
           
@@ -163,13 +161,8 @@
                 |En el caso de encontrar plagas o enfermedades, se deben aplicar productos para el control sanitario, garantizando su persistencia en el producto cosechado, siguiendo las instrucciones y medidas recomendadas por el fabricante frente a los tiempos, rotaciones de cultivos, fertilización de los suelos, horas y métodos de aplicación, especialmente, entre la última aplicación y la cosecha.
 
       p.texto-final-labores-culturales Así como las labores culturales son importantes en los cultivos agroecológicos, existen roles de manejo combinado bajo la metodología del manejo agroecológico; estos son conocidos como arvenses y serán descritos a continuación:
-    br
-
-    separador
-
-    br
     
-    .row.container.justify-content-around.align-items-center
+    .row.container.justify-content-around.align-items-center.my-5
             
 
       h3 Arvenses 
@@ -327,14 +320,13 @@
     br
     br
 
-    separador
 
     br
     
 
     .row.container.justify-content-around.align-items-center
 
-        h3 Equipos y herramientas
+        h3 Equipos y herramientas para trabajos agropecuarios
 
         .row
           .col-lg-8

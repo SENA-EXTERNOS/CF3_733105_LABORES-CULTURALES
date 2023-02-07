@@ -125,14 +125,15 @@
 
     br
     br
+    Separador
     br
 
-    .row.container.justify-content-around.align-items-center
+    .row.container.justify-content-around
 
     
       #fertilizantes-organicos-o-bioabonos
       .titulo-segundo.color-acento-contenido
-        h2 2.1 Fertilizantes orgánicos o bioabonos
+        h2.mb-0 2.1 Fertilizantes orgánicos o bioabonos
 
     
       .col-lg-8
@@ -271,13 +272,6 @@
     br
 
     .row.container.justify-content-around.align-items-center
-
-                 
-      p Según lo visto anteriormente, existen varios tipos de abonos, los abonos fermentados, en especial, generan ventajas sobre los cultivos agroecológicos.
-
-
-
-   
       .tarjeta.fondo-caract-abonos-tema2.p-4
         .col-sm.mb-5.mb-sm-0
                 
@@ -298,19 +292,19 @@
               li 
                 .lista-ol--cuadro__vineta(style='background-color: #81ad20')
                   span 1
-                p.mb-0.fw-normal No forman gases tóxicos ni generan malos olores. Con un adecuado seguimiento a la fermentación, se evita cualquier inicio de putrefacción, a través de volteos y mediciones constantes de temperatura.
+                p.mb-0.fw-normal #[b No forman gases tóxicos ni generan malos olores.] Con un adecuado seguimiento a la fermentación, se evita cualquier inicio de putrefacción, a través de volteos y mediciones constantes de temperatura.
               li 
                 .lista-ol--cuadro__vineta(style='background-color: #81ad20')
                   span 2
-                p.mb-0.fw-normal Facilitan el manejo del volumen de abono, además del almacenamiento, transporte y disposición de los materiales para elaborarlo, según la necesidad presentada y las condiciones económicas de cada productor.
+                p.mb-0.fw-normal #[b Facilitan el manejo del volumen de abono], además del almacenamiento, transporte y disposición de los materiales para elaborarlo, según la necesidad presentada y las condiciones económicas de cada productor.
               li 
                 .lista-ol--cuadro__vineta(style='background-color: #81ad20')
                   span 3
-                p.mb-0.fw-normal Se preparan en la mayoría de ambientes, temperaturas y lugares donde se realicen actividades agropecuarias.
+                p.mb-0.fw-normal #[b Se preparan en la mayoría de ambientes], temperaturas y lugares donde se realicen actividades agropecuarias.
               li 
                 .lista-ol--cuadro__vineta(style='background-color: #81ad20')
                   span 4
-                p.mb-0.fw-normal Se autorregulan a través de la inoculación biológica natural de los agentes patogénicos que conforman la tierra.
+                p.mb-0.fw-normal #[b Se autorregulan] a través de la inoculación biológica natural de los agentes patogénicos que conforman la tierra.
         
         .row.bloque2-caract-abonos-tema2
           .col-lg-7
@@ -319,15 +313,15 @@
               li 
                 .lista-ol--cuadro__vineta(style='background-color: #81ad20')
                   span 5
-                p.mb-0.fw-normal Brindan la posibilidad de utilizar el producto en períodos cortos y a bajo costos, esto, debido a que sus ingredientes, por lo general, se encuentran en la misma finca donde se emplean.
+                p.mb-0.fw-normal #[b Brindan la posibilidad de utilizar el producto en períodos cortos y a bajo costos], esto, debido a que sus ingredientes, por lo general, se encuentran en la misma finca donde se emplean.
               li 
                 .lista-ol--cuadro__vineta(style='background-color: #81ad20')
                   span 6
-                p.mb-0.fw-normal Con la inoculación y reproducción de microorganismos presentes en los suelos, las levaduras y los materiales se transforman, gradualmente, en nutrientes de excelente calidad disponibles para la tierra, las plantas y para la propia retroalimentación de la actividad microbiológica.
+                p.mb-0.fw-normal Con la inoculación y reproducción de microorganismos presentes en los suelos, las levaduras y los materiales #[b se transforman, gradualmente, en nutrientes de excelente calidad] disponibles para la tierra, las plantas y para la propia retroalimentación de la actividad microbiológica.
               li 
                 .lista-ol--cuadro__vineta(style='background-color: #81ad20')
                   span 7
-                p.mb-0.fw-normal El crecimiento de las plantas se estimula con fitohormonas y fitorreguladores orgánicos que se activan a través de abonos fermentados.
+                p.mb-0.fw-normal #[b El crecimiento de las plantas se estimula] con fitohormonas y fitorreguladores orgánicos que se activan a través de abonos fermentados.
             
           .col-lg-5
               figure
@@ -511,7 +505,10 @@
               figure
                 img(src="@/assets/curso/temas/imagen-inoculantes-biologicos.png", alt="alt").imagen-inoculantes-biologicos
         
-        p.texto-final-inoculantes-biologicos Como se ha visto, los fertilizantes orgánicos y los microorganismos son insumos claves en la fabricación de fertilizantes. Los lugares acondicionados para su fabricación son conocidos como biofábricas.
+    p Los fertilizantes orgánicos y los microorganismos son insumos claves en la fabricación de fertilizantes. Los lugares acondicionados para su fabricación son conocidos como biofábricas.
+      br
+      br
+      | El siguiente video, expone las generalidades y aspectos clave sobre las biofábricas; obsérvelo con atención y tome nota de lo más destacado: 
 
     .row.container.justify-content-around.align-items-center
 
