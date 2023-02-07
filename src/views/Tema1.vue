@@ -41,7 +41,7 @@
       p Existen diversos tipos de labores culturales, las cuales pueden ser de carácter preventivo, de manejo y de control, o enfocadas al desarrollo fisiológico o al manejo de poblaciones asociadas, e influyen en el adecuado desarrollo de las plantas durante su crecimiento o producción.
         br
         br
-        | Tales labores culturales pueden ser: 
+        | Tales labores pueden ser: 
       AcordionA(tipo="a" clase-tarjeta="tarjeta color-exterior-slider-tema1")
         .row(titulo="Trasplante")
           
