@@ -192,7 +192,7 @@ export default {
     {
       referencia:
         'Aguilar, M. A., González, L. C., & Tabaco, B. H. (2021). Caracterización ecológica de la flora de arvenses del alto y bajo Ricaurte (Boyacá). <em>INGE CUC, 17(1)</em>, p. 112-125.',
-      link: 'https://52.0.212.120/ingecuc/article/view/3112',
+      link: 'https://revistascientificas.cuc.edu.co/ingecuc/article/view/3112',
     },
     {
       referencia:
