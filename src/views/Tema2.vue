@@ -367,7 +367,7 @@
                     | Sirven como control Biológico .contra patógenos
             .tarjeta-slide2__portada(style="background-color: #f2eddc").p-3.d-flex.align-items-center.justify-content-center
               .contenido
-                h4.text-center HONGO MICORRIZADOS
+                h4.text-center HONGOS MICORRIZADOS
                 .imagen
                   img(src='@/assets/curso/temas/a2.svg', alt='' style='width: 256px').m-auto
       .col-lg-4
@@ -394,7 +394,7 @@
                     | Generan una relación de mutualismo. 
             .tarjeta-slide2__portada(style="background-color: #f2eddc").p-3.d-flex.align-items-center.justify-content-center
               .contenido
-                h4.text-center HONGO MICORRIZADOS
+                h4.text-center HONGOS FILAMENTOSOS
                 .imagen
                   img(src='@/assets/curso/temas/a3.svg', alt='' style='width: 256px').m-auto
       .col-lg-4
