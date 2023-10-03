@@ -15,10 +15,10 @@
           
           .col-lg-8
             .bloque-color-superior-tema2
-            p.texto-color-superior.p-3 Es importante buscar un equilibrio en la realización de las labores culturales que permita la obtención de una alta productividad en los cultivos sin generar afectaciones graves o impactos negativos a los recursos naturales, es decir, evitando, o minimizando, cualquier efecto negativo que se pueda originar.
+            p.texto-color-superior.p-3 Es importante buscar un equilibrio en la realización de las labores culturales que permita la obtención de una alta productividad en los cultivos sin generar afectaciones graves o impactos negativos a los recursos naturales, es decir, evitando o minimizando cualquier efecto negativo que se pueda originar.
               br
               br
-              |La siguiente figura, muestra algunos elementos claves para el proceso de fertilización:
+              |La siguiente figura muestra algunos elementos claves para el proceso de fertilización:
           
           .col-lg-4
             figure
@@ -45,7 +45,7 @@
     br
     br
     
-    p.mb-4(data-aos='fade-right') Reconozca, entonces, algunos activos intervinientes en los procesos de fertilización:
+    p.mb-4(data-aos='fade-right') Reconozca entonces, algunos activos intervinientes en los procesos de fertilización:
     .row.container.justify-content-around.align-items-center
 
       .tarjeta.p-4
@@ -73,7 +73,7 @@
 
             .col-md-6.mb-4.mb-md-0
               h4.texto-slider1-tema2 Degradación del suelo
-              p.texto-slider1-tema2 En muchas ocasiones, los suelos son deficientes por factores como la degradación, es decir, debido a prácticas agrícolas inadecuadas, por lo que es necesario llevar a cabo procesos de recuperación e incorporación de nutrimentos al suelo mediante labores de fertilización. Sin embargo, como lo indica Arzola et al., (2018), se debe hacer, preliminarmente, un diagnóstico que incluya todos los componentes del agroecosistema, incluso, los de carácter ecológico y social, porque, así, se garantizan mejores resultados económicos, agroecológicos y culturales.
+              p.texto-slider1-tema2 En muchas ocasiones, los suelos son deficientes por factores como la degradación, es decir, debido a prácticas agrícolas inadecuadas, por lo que es necesario llevar a cabo procesos de recuperación e incorporación de nutrimentos al suelo mediante labores de fertilización. Sin embargo, como lo indica Arzola et al., (2018), se debe hacer preliminarmente un diagnóstico que incluya todos los componentes del agroecosistema, incluso los de carácter ecológico y social, porque así, se garantizan mejores resultados económicos, agroecológicos y culturales.
 
 
       
@@ -95,7 +95,7 @@
                 //figcaption Leyenda de la imagen
 
             .col-md-6.mb-4.mb-md-0
-              h4.texto-slider1-tema2 Recursos Naturales
+              h4.texto-slider1-tema2 Recursos naturales
               p.texto-slider1-tema2 Además, con el aumento día a día de la búsqueda de la sostenibilidad y la eficiencia en el uso de los recursos naturales, se crea una conciencia ambiental que permite garantizar y fomentar una armonía entre la conservación del medio ambiente, el desarrollo económico y el bienestar social.
         
 
@@ -108,7 +108,7 @@
 
             .col-md-6.mb-4.mb-md-0
               h4.texto-slider1-tema2 Fertilización
-              p.texto-slider1-tema2 El empleo de procesos de fertilización más amigables con el medio ambiente, ha generado que este recurso sea más productivo con el paso de los años, aportando no solo beneficios al suelo, también, a las plantas, les brinda características y atributos deseables.
+              p.texto-slider1-tema2 El empleo de procesos de fertilización más amigables con el medio ambiente, ha generado que este recurso sea más productivo con el paso de los años, aportando no solo beneficios al suelo, también a las plantas les brinda características y atributos deseables.
  
 
 
@@ -138,7 +138,7 @@
     
       .col-lg-8
         .bloque-color-superior-fert-org
-        p.texto-color-superior.p-3 Los fertilizantes orgánicos, o bioabonos, se componen de mezclas de materiales originados por la degradación de diversos desperdicios de origen vegetal, animal y mixtos, o de residuos industriales, optimizando, así, las propiedades y características de los terrenos, aportándoles los nutrientes y requerimientos necesarios para las plantas. Es importante resaltar que los fertilizantes generan beneficios a las plantas, mientras que los abonos enriquecen el suelo.
+        p.texto-color-superior.p-3 Los fertilizantes orgánicos o bioabonos se componen de mezclas de materiales originados por la degradación de diversos desperdicios de origen vegetal, animal y mixtos o de residuos industriales, optimizando así, las propiedades y características de los terrenos, aportándoles los nutrientes y requerimientos necesarios para las plantas. Es importante resaltar que los fertilizantes generan beneficios a las plantas, mientras que los abonos enriquecen el suelo.
           br
           br
           |En lo relacionado con los abonos orgánicos o bioabonos, tenga presente elementos como:
@@ -165,11 +165,11 @@
           LineaTiempoD.color-secundario
             p(numero="1" titulo="Aprovechamiento de desechos") Surge como una alternativa para aprovechar los desechos originados día a día en el hogar o en el desarrollo de actividades agropecuarias, agrícolas o forestales. Son necesarios para desarrollar una agricultura sostenida en el largo plazo, en razón al acelerado deterioro de los suelos y a su alta y prolongada fertilización con productos químicos que afectan los rendimientos y la productividad del cultivo.
 
-            p(numero="2" titulo="Elaboración natural y propia") Se recomienda que los abonos y bioabonos empleados sean elaborados con productos de la misma finca, es decir, que exista un intercambio de elementos que beneficien a otros sistemas del cultivo, generado que todos los procesos sean autosuficientes y evitando el incremento de los gastos de producción, obteniendo, con esto, beneficios naturales. Por ejemplo, para un bioabono sustentable, puede emplearse estiércoles y productos de varias cosechas.
+            p(numero="2" titulo="Elaboración natural y propia") Se recomienda que los abonos y bioabonos empleados sean elaborados con productos de la misma finca, es decir, que exista un intercambio de elementos que beneficien a otros sistemas del cultivo, generando que todos los procesos sean autosuficientes y evitando el incremento de los gastos de producción, obteniendo con esto beneficios naturales. Por ejemplo, para un bioabono sustentable, puede emplearse estiércoles y productos de varias cosechas.
 
             p(numero="3" titulo="Variedad de los abonos orgánicos") Existen diversos tipos de abonos orgánicos, uno de los más comunes y usados es el compost, elaborado por medio de un proceso biológico que permite la higienización, descomposición y fermentación de residuos orgánicos como los restos de alimentos de origen doméstico o industrial, es decir, cáscaras de frutas, de vegetales, de huevos, etc.
 
-            p(numero="4" titulo="Otros Abonos") Existen otros abonos orgánicos como el <em>bocashi</em>, la lombricultura, también conocida como vermicompost, los abonos verdes, la turba, u otros abonos elaborados a partir de residuos alimenticios, agrícolas o forestales, de humus de lombriz, o del estiércol animal de gallinas, conejos, caballos, vacas y cabras.
+            p(numero="4" titulo="Otros abonos") Existen otros abonos orgánicos como el <em>bocashi</em>, la lombricultura, también conocida como vermicompost, los abonos verdes, la turba, u otros abonos elaborados a partir de residuos alimenticios, agrícolas o forestales, de humus de lombriz o del estiércol animal de gallinas, conejos, caballos, vacas y cabras.
     
     br
     br
@@ -188,7 +188,7 @@
             img(src="@/assets/curso/temas/imagen-tarj2-fertilizantes-org.png", alt="alt").imagen-tarj2-fertilizantes-org
 
         .col-lg-7
-          p.texto-tarj2-fertilizantes Uno de los componentes más importantes a la hora de hablar de fertilización en los cultivos, es el de abordar el tema de fertilizantes orgánicos y fertilizantes biológicos e inoculantes, conocidos, también, como bioabonos. Estos se fabrican a partir de los recursos disponibles en los cultivos, como se desarrolla a continuación:
+          p.texto-tarj2-fertilizantes Uno de los componentes más importantes a la hora de hablar de fertilización en los cultivos, es el de abordar el tema de fertilizantes orgánicos y fertilizantes biológicos e inoculantes, conocidos también como bioabonos. Estos se fabrican a partir de los recursos disponibles en los cultivos, como se desarrolla a continuación:
 
     br
     br
@@ -232,7 +232,7 @@
 
               .row(titulo="Abonos verdes")
                 .col-12
-                  p.textos-acordeon-tema2.mb-0 Plantas (leguminosas y gramíneas) sembradas para, posteriormente, ser incorporadas en terrenos para su descomposición allí, logrando, así, la producción de grandes cantidades de biomasa que aportan a la estructura del suelo.
+                  p.textos-acordeon-tema2.mb-0 Plantas (leguminosas y gramíneas) sembradas para posteriormente ser incorporadas en terrenos para su descomposición allí, logrando así, la producción de grandes cantidades de biomasa que aportan a la estructura del suelo.
 
               .row(titulo="Turba")
                 .col-12
@@ -251,7 +251,7 @@
               
               .row(titulo="Biofertilizantes")
                 .col-12
-                  p.textos-acordeon-tema2.mb-0 Preparados que cuentan con células vivas, o latentes, provenientes de cepas microbianas que son potenciadoras de diferentes nutrientes, favoreciendo, así, la fijación del nitrógeno y la solubilización del fósforo.
+                  p.textos-acordeon-tema2.mb-0 Preparados que cuentan con células vivas o latentes, provenientes de cepas microbianas que son potenciadoras de diferentes nutrientes, favoreciendo así, la fijación del nitrógeno y la solubilización del fósforo.
 
               
               .row(titulo="Gallinaza o estiércoles")
@@ -364,7 +364,7 @@
                     | Promueve el crecimiento y desarrollo de las plantas.
                   li
                     i.fas.fa-atom
-                    | Sirven como control Biológico .contra patógenos
+                    | Sirven como control biológico contra patógenos
             .tarjeta-slide2__portada(style="background-color: #f2eddc").p-3.d-flex.align-items-center.justify-content-center
               .contenido
                 h4.text-center HONGOS MICORRIZADOS
@@ -379,7 +379,7 @@
                     | Se asocian con la raíz de las plantas.
                   li
                     i.fas.fa-atom
-                    | El hongo brinda nutrientes, agua y defensa a la planta y está carbohidratos al hongo.
+                    | El hongo brinda nutrientes, agua y defensa a la planta y esta carbohidratos al hongo.
                   li
                     i.fas.fa-atom
                     | Estimula la formación de raíces secundarias que permiten aprovechar y mejorar la obtención de nutrientes.
@@ -412,7 +412,7 @@
                     | Fijan el nitrógeno y lo proporcionan a las plantas.
                   li
                     i.fas.fa-atom
-                    | Estimulas el crecimiento de tallos, hojas, flores y frutos.
+                    | Estimulan el crecimiento de tallos, hojas, flores y frutos.
             .tarjeta-slide2__portada(style="background-color: #f2eddc").p-3.d-flex.align-items-center.justify-content-center
               .contenido
                 h4.text-center BACTERIAS
@@ -433,7 +433,7 @@
                   img(src="@/assets/curso/temas/imagen-microorganismos-eficientes.png", alt="alt").imagenes-tarjetas-conectadas
               .col
                 h5.texto-tarjetas-conectadas Microorganismos eficientes
-                p.texto-tarjetas-conectadas Se conoce como fertilizantes, o inoculantes biológicos, a los productos que se elaboran con microorganismos eficientes, que son benéficos para los suelos, las plantas y la agricultura en general, al aumentar la interacción de bacterias y hongos descomponedores de los nutrientes que se brindan al suelo para que la planta los aproveche de mejor manera. Además, se elimina o minimiza el uso de insecticidas, pesticidas, herbicidas y demás agroquímicos (biorremediadores).
+                p.texto-tarjetas-conectadas Se conoce como fertilizantes o inoculantes biológicos a los productos que se elaboran con microorganismos eficientes, que son benéficos para los suelos, las plantas y la agricultura en general, al aumentar la interacción de bacterias y hongos descomponedores de los nutrientes que se brindan al suelo para que la planta los aproveche de mejor manera. Además, se elimina o minimiza el uso de insecticidas, pesticidas, herbicidas y demás agroquímicos (biorremediadores).
           .crd.crd--avatarHorizontal.fondo-color-tarjetas-conectadas.tarjeta.espacios-color-tarjeta2-tema2.py-4
             .row.align-items-center
               .col-auto
@@ -459,7 +459,7 @@
                   img(src="@/assets/curso/temas/imagen-caracteristicas-fundamentales.png", alt="alt").imagenes-tarjetas-conectadas
               .col
                 h5.texto-tarjetas-conectadas Propiedades fundamentales
-                p.texto-tarjetas-conectadas Para que los fertilizantes sean de adecuada calidad, se debe tener una serie de características fundamentales como la estabilidad, la factibilidad biológica y económica, o que sean libres de contaminantes. Su proceso de elaboración es duplicable y cuenta con organismos vivos, o activos, como bacterias simbióticas y asimbióticas fijadoras de nitrógeno, hongos formadores de micorrizas, microorganismos solubilizadores de fosfato y transformantes de materia orgánica.
+                p.texto-tarjetas-conectadas Para que los fertilizantes sean de adecuada calidad, se debe tener una serie de características fundamentales como la estabilidad, la factibilidad biológica y económica o que sean libres de contaminantes. Su proceso de elaboración es duplicable y cuenta con organismos vivos o activos como bacterias simbióticas y asimbióticas fijadoras de nitrógeno, hongos formadores de micorrizas, microorganismos solubilizadores de fosfato y transformantes de materia orgánica.
 
     br
     br
@@ -593,7 +593,7 @@
 
         .row(data-aos="fade-left")       
           .col-lg-8.bloque-final-tema2.p-3
-            p Las labores culturales son todas las actividades que se deben llevar a cabo, desde el momento de la siembra hasta la recolección o cosecha, para mantener los cultivos saludables y productivos, de forma sostenible, siendo amigables con el medio ambiente. Igualmente, garantizan la producción de alimentos y la soberanía alimentaria, a la vez que cuidan y protegen los bienes comunes y los recursos naturales, como el suelo, a través de la implementación de alternativas como la fertilización orgánica (compost, abonos verdes, inoculantes biológicos, entre otros), o acatando y respetando la normatividad vigente y los mecanismos de protección de los ecosistemas. Todo lo anterior, tiene el fin de poder brindar a la sociedad un producto sano y libre de riesgos por exceso de agentes químicos, que puedan alterar la salud de los consumidores. 
+            p Las labores culturales son todas las actividades que se deben llevar a cabo desde el momento de la siembra hasta la recolección o cosecha, para mantener los cultivos saludables y productivos, de forma sostenible, siendo amigables con el medio ambiente. Igualmente, garantizan la producción de alimentos y la soberanía alimentaria, a la vez que cuidan y protegen los bienes comunes y los recursos naturales, como el suelo; a través de la implementación de alternativas como la fertilización orgánica (compost, abonos verdes, inoculantes biológicos, entre otros) o acatando y respetando la normatividad vigente y los mecanismos de protección de los ecosistemas. Todo lo anterior, tiene el fin de poder brindar a la sociedad un producto sano y libre de riesgos por exceso de agentes químicos, que puedan alterar la salud de los consumidores. 
               br
               br
               |Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.

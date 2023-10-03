@@ -145,7 +145,7 @@ export default {
     {
       termino: 'Arvenses',
       significado:
-        'plantas comúnmente conocidas como maleza, no presentan interés y, por tanto, deben ser destruidas.',
+        'plantas comúnmente conocidas como maleza, no presentan interés y por tanto, deben ser destruidas.',
     },
     {
       termino: 'Biofertilizantes',
@@ -175,7 +175,7 @@ export default {
     {
       termino: 'Plaga',
       significado:
-        'alteración de un recurso vegetal producida por vertebrados, nematodos, o insectos, que producen daños y pérdidas apreciables a la producción y la calidad.',
+        'alteración de un recurso vegetal producida por vertebrados, nematodos o insectos que producen daños y pérdidas apreciables a la producción y la calidad.',
     },
     {
       termino: 'Raleo',
@@ -216,7 +216,7 @@ export default {
       referencia:
         'Instituto Colombiano Agropecuario. (2019). <em>Productos registrados bioinsumos.</em> ICA. ',
       link:
-        'https://www.ica.gov.co/getdoc/2ad9e987-8f69-4358b8a9-e6ee6dcc8132/productos-bioinsumos-mayo-13-de-2008',
+        'https://www.ica.gov.co/getattachment/Areas/Agricola/Servicios/Fertilizantes-y-Bio-insumos-Agricolas/BD_PRODUCTOS-BIOINSUMOS-2.pdf.aspx?lang=es-CO',
     },
     {
       referencia:
