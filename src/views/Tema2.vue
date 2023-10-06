@@ -482,7 +482,7 @@
       .row
           .col-lg-12
             figure
-                img(src="@/assets/curso/temas/figura5-microorganismos-empleados.png", alt="alt")
+                img(src="@/assets/curso/temas/figura5-microorganismos-empleados.svg", alt="alt")
             
     br
     br
